@@ -66,14 +66,14 @@ In early 1900s:
 > Discrimination against the Negro people means discrimination against Jews, Catholics and all minorities. Segregation is a policy used to divide people and results in inferior living conditions and recreational facilities for all.
 > —Stanley Askin, July 1948
 
-**1943 July 17**: Dallas F. Nicholas contacts Baltimore Board of Recreation and Parks for all-black Baltimore Tennis Club calling for an end to the segregation of courts
-**1948**: Young Progressives of Maryland, a political group of college-aged men and women in Baltimore, joined with the black Baltimore Tennis Club to stage a protest of Druid Hill Park's segregated tennis facilities, cries of communism were immediate:
+- **1943 July 17**: Dallas F. Nicholas contacts Baltimore Board of Recreation and Parks for all-black Baltimore Tennis Club calling for an end to the segregation of courts
+- **1948**: Young Progressives of Maryland, a political group of college-aged men and women in Baltimore, joined with the black Baltimore Tennis Club to stage a protest of Druid Hill Park's segregated tennis facilities, cries of communism were immediate:
 
 > The interracial game was planned and advertised, but stopped by police before any actual play could take place. All of the players were arrested, along with several spectators who were heard to yell, "This is Nazi Germany! Why can't they play? They're 33 American citizens!" As they were arrested, the protestors began singing songs like "America, the Beautiful," "My Country 'Tis of Thee," and the Negro National Anthem.
 
 **Stanley Askin** was a twice-wounded leader of a Ranger battalion in the D-Day landing at Normandy, later said:
 
-> “Segregation, we reasoned, was indefensible. Many of those who agreed with us were Jewish. Early on we had learned that if you scratch a racist, you often uncover an anti-Semite. “
+> “Segregation, we reasoned, was indefensible. Many of those who agreed with us were Jewish. Early on we had learned that if you scratch a racist, you often uncover an anti-Semite."
 
 Historian Deb Weiner writes:
 
@@ -146,7 +146,7 @@ Long-time home of Juanita Carroll Jackson and Clarence Mitchell Sr. Building was
 - **1960**: Michael Mitchell picks up phone / "This is John Kennedy. Is your father home?" / “He's at work.” / “Is your mother there?” / She's in the bathroom." / Olesker: “Young Michael never heard the end of that one."
 - **2013**: Michael Olesker interviewed Dr. Kieffer Mitchell:  what his parents would have thought of the condition of their former home: “My parents wouldn't have cared about that. They didn't care about bricks and mortar. My parents were revolutionaries."
 
-_Source: “Front Stoops in the 50’s” (2013), Michael Olesker.
+_Source: “Front Stoops in the 50’s” (2013), Michael Olesker._
 
 **What was the Fair Employment Practices Committee (FEPC)?**
 
