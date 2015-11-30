@@ -1,5 +1,3 @@
-wyman-park-confederate-memory.md
-
 # Overview
 
 _**Note**: These tour notes were prepared by Eli Pousson in November 2015 for a Baltimore Heritage tour and discussion program organized on December 5, 2015 in advance of a public meeting on December 15, 2015 by the Special Commission to Review Baltimore’s Public Confederate Monuments._
