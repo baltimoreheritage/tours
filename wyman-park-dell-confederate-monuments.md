@@ -1,6 +1,12 @@
+wyman-park-confederate-memory.md
+
 # Overview
 
-_**Note**: These tour notes are being prepared by Eli Pousson in November 2015 for a Baltimore Heritage tour and discussion program organized in December 2015 in advance of a public meeting on December 15, 2015 by the Special Commission to Review Baltimore’s Public Confederate Monuments._
+_**Note**: These tour notes were prepared by Eli Pousson in November 2015 for a Baltimore Heritage tour and discussion program organized on December 5, 2015 in advance of a public meeting on December 15, 2015 by the Special Commission to Review Baltimore’s Public Confederate Monuments._
+
+Please join us for a walk around Wyman Park Dell and Charles Village to learn about ongoing review of Baltimore’s public Confederate monuments, the history behind these statues, and the complicated issue of public memory and public art. This tour is intended to create a safe place for learning and discussion about both Confederate and Union monuments and their meaning in the past and present. Mayor Stephanie Rawlings-Blake’s <a href="http://baltimoreplanning.wix.com/monumentcommission">Commission to Review Baltimore's Public Confederate Monuments</a> is currently developing recommendations for the treatment of four Confederate monuments located on city property. The Committee will hold its final <a href="http://baltimoreheritage.org/event/public-hearing-special-commission-to-review-baltimores-public-confederate-monuments/">hearing on December 15</a>, and this tour is a good opportunity to learn more about the monuments and reflect on your own views ahead of time. You can also <a href="http://baltimoreheritage.github.io/baltimore-civil-rights-heritage/confederate-memory/">read a working draft of the Baltimore Heritage study</a> of these monuments here.
+
+<em>This program is free but participants are welcome to make an optional $5 donation to support our work. We are trying to arrange for warm refreshments following the walk and allow further time for questions and discussion. Stay tuned for details! For questions, please contact Eli Pousson at 301-204-3337.</em>
 
 ## What is this tour about?
 
@@ -18,15 +24,9 @@ _**Note**: These tour notes are being prepared by Eli Pousson in November 2015 f
 - Create a space for constructive discussion about the monuments
 - Solicit and record comments/reflections about the monuments
 
-## Draft tour announcement
-
-Please join us for a walk around Wyman Park Dell and Charles Village to learn about ongoing review of Baltimore’s public confederate monuments and the history behind these controversial statues. This tour is intended to create a safe place for learning and discussion about both Confederate and Union monuments and their meaning in the past and present. We are offering this tour as a resource for people interested in testifying at the [December 15 public hearing](http://baltimoreheritage.org/event/public-hearing-special-commission-to-review-baltimores-public-confederate-monuments/). It is a good opportunity to learn more about the monuments and reflect on your own views.
-
-The tour will begin at the Union Soldier’s and Sailors Monument on Charles Street at the southeast corner of Wyman Park Dell and continue a little over a mile before ending at the Lee-Jackson Monument across from the Baltimore Museum of Art. Given the chilly weather in early December, we are working to arrange for a room inside where participants can ask questions and continue the discussion following our walk. 
-
 # Introduction
 
-- 90 minute walk
+- 75-90 minute walk
 - Questions and discussion welcome
 - Optional discussion to follow (inside for comfort)
 
@@ -55,23 +55,32 @@ Source: Memory in Black and White ([Notes](http://elipousson.github.io/notes/201
 
 # Union Soldier’s and Sailors Monument
 
-- Dates: dedicated ?, moved ?
+- Dates: dedicated 1909, moved 1959
 - Creator:
 - Location: N. Charles Street
 - Dimensions:
 - Material:
 
-# Johns Hopkins University
+- **April 5, 1906**: Maryland State legislature authorized funding for the construction of the [Union Soldiers and Sailors Monument](https://en.wikipedia.org/wiki/Union_Soldiers_and_Sailors_Monument)in Baltimore. Likely a reaction to the installation of the Confederate monument on Mount Royal in 1903.
+- **November 6, 1909**: Monument dedicated in Druid Hill Park
+- **1959**: Baltimore relocated the monument to Wyman Park Dell to make way for the construction of the Jones Falls Expressway through Druid Hill Park.
 
-_Note: It may make sense to include some discussion on the relationship of Johns Hopkins University to Confederate memory in Baltimore and historical scholarship on the Civil War and Reconstruction in Maryland._
+The plans for the monument prompted a striking response from a number of opponents including one woman who sent a series of letters to the Sun (signing them “A Maryland Woman”). The first letter, published on June 19, 1906 stated:
 
-Potential topics could include:
+> ”The State erected no monument to her Colonial or Revolutionary heroes. No marble tells of their deeds, raised at the expense of the taxpayers. Why, then, should one go up to a motley throng of negroes and aliens. Look at their pension lists and see.
+> By what right did the Legislature of 1906 pass a bill giving the people's money, or the Governor sign it, for such a purpose? Erect a monument to what? Considering who composed the Maryland Federals, no wonder the State Treasury had to furnish the money. We pay taxes for their pensions, without objection, but to be forced to pay to give them a monument is past endurance. [...] As the last General Assembly and Governor Warfield compel us to pay $25,000 to erect a monument, we ask the favor to be allowed to present a design, hoping to make it tell true history. I do not think I make a mistake in saying that the majority of native-born who wore the blue at that period were negroes. Certainly, they gathered by the hordes in camps through Southern Maryland. I would suggest this monument be a block of ebony on a base of tar, and a master hand wield the chisel.
 
-- W.E.B. Dubois on Johns Hopkins University (see Memory in Black and White)
-- The Rise of Jim Crow
-- David Blight at Johns Hopkins University
+After describing a series of racist scenes for the monument, the letter claimed that the legislature had proposed a monument to "oppression and negro insolence, forcing contribulations [sic] from us, the descendants of Southern men and women, who had the courage of their convictions and never faltered in loyalty or love, but were supreme in both.”
 
-## Johns Hopkins Bust
+After the letter met with equally strong responses and critiques, "A Maryland Woman" wrote back in a letter published on June 23, 1906:
+
+> The act to take $25,000 from the State Treasury to erect a monument to the soldiers of Maryland does not say "to the white," etc.—it could not discriminate. How will you eliminate the soldier negroes? Will you say to them, Because you are negroes this monument is not for you? You cannot refuse them full recognition on it, a place at every ceremony and full share in the orators' glowing eloquence. You must accept your negro companion in arms. He wore the blue and carried a gun. I think all fair minds will say that this monument represents his services equally with yours. This is the inevitable result of asking the State to pay for it. Had you, who wish to honor your dead, erected it at your own expense and by your own exertions, you could have a white monument, with names of white comrades carved on it.
+
+Finally, on July 17, 1906, “A Maryland Woman” again responds again to critics, writing:
+
+> ”Yes, there stands another monument here, erected by the efforts and the work of the Southern women of Maryland, with loving hearts and willing hands, but not one cent of the State's funds was asked or received. It stands, white, as stainless as the lives, as pure as the souls of our dear dead heroes—our _gloria victis_ to the end of time.
+
+# Johns Hopkins Bust
 
 - Dates: Dedicated 1935, moved 1955
 - Location: N. Charles and E. 33rd Streets
@@ -102,7 +111,37 @@ _About Johns Hopkins_
 
 Sources[Monument City Blog](http://monumentcity.net/2009/03/29/johns-hopkins-monument-baltimore-md/),  [JHU Magazine](http://pages.jh.edu/jhumag/0602web/statues.html)
 
-## Sidney Lanier Monument
+# Confederate Women’s Monument
+
+- Dates:1916
+- Creator: J. Maxwell Miller
+- Location: N. Charles and University Parkway
+- Dimensions:
+- Material:
+
+_About the monument_
+
+> Donated by the State of Maryland, this monument is by J. Maxwell Miller, the artist behind the Star-Spangled Banner Centennial Monument. The memorial depicts two stoic women, one of whom is standing looking off into the distance, while the other kneels down clutching the body of a fallen soldier who has dropped his flag. The inscription reads, “In difficulty and danger, regardless of self, they fed the hungry, clothed the needy, nursed the wounded and comforted the dying.”
+
+- **1914**: General Assembly of Maryland approved a bill entitled "An act to erect a suitable monument in the city of Baltimore to commemorate the heroism, devotion and self-sacrifice of the women of Maryland in their service to the wounded Confederate soldiers who came under their care in the war between the States—1861-1865." The act appropriated $12,000 in state funding and a large number of private contributions to "The Maryland Confederate Women's Monument Fund"
+- **November 2, 1916**: Confederate Women's Monument dedicated on University Parkway
+- **July 18, 1919**: United Daughters of the Confederacy incorporated in Washington, DC
+
+ On October 28, 1916, the _Sun_ reported:
+
+> ”The unveiling ceremonies will be conducted by the Rev. William M. Dame, D.D. and the orator of the day will be James McC. Trippe, whose daughter, Miss Mary Ringgold Trippe, will unveil the monument at the close of the oration.”
+
+On November 3, the _Sun_ continued with an account of the unveiling ceremonies (“braving the cutting wind”) attended by a “crowd of several hundred persons, composed of former supporters of the Confederacy, their friends and descendants,” noting:
+
+> ”The monument, which is the work of J. Maxwell Miller and represents a mother holding a dying hero in her arms, in front of a figure typifying the devoted women of the Confederacy, was veiled with the Stars and Stripes and the Stars and Bars, both being drawn aside by Miss Mary Ringgold Trippe, grand-daughter of the late Gen. Anew C. Trippe, chairman of the monument commission.”
+
+In May 1946, the Sun published a light feature by Amy Grief suggests the popular perception of Confederate monuments may have been changing, writing:
+
+> “So you drive out Charles street, turn the car at University parkway to face south start with specimen No. 1 — that “Confederate Women of Maryland” price, “The Brave at Home.” It has been there many years, but you’ve never noticed it. It’s not particularly distinguished, not bad—simply a part of the landscape you’ve accepted.
+
+Sources: [History of the UDC](http://www.hqudc.org/history-of-the-united-daughters-of-the-confederacy/),  [Monument City Blog](http://monumentcity.net/2009/05/18/confederate-women-memorial-baltimore-md/)
+
+# Sidney Lanier Monument
 
 - Dates: Dedicated 1942
 - Location: Charles Street near University Parkway
@@ -142,19 +181,30 @@ _Letter from Lanier to wife, c. 1873:_
 
 Sources: [Monument City Blog](http://monumentcity.net/2009/03/17/sidney-lanier-monument-baltimore-md/), [Historic Marker Database](http://www.hmdb.org/marker.asp?marker=70802), [Peabody Orchestra - Wikipedia](https://en.wikipedia.org/wiki/Peabody_Orchestra),  [JHU Magazine](http://pages.jh.edu/jhumag/0602web/statues.html)
 
-# Confederate Women’s Monument
+# Johns Hopkins University
 
-- Dates:
-- Creator: J. Maxwell Miller
-- Location: N. Charles and University Parkway
-- Dimensions:
-- Material:
+_Note: It may make sense to include some discussion on the relationship of Johns Hopkins University to Confederate memory in Baltimore and historical scholarship on the Civil War and Reconstruction in Maryland._
 
-_About the monument_
+Potential topics could include:
 
-> Donated by the State of Maryland, this monument is by J. Maxwell Miller, the artist behind the Star-Spangled Banner Centennial Monument. The memorial depicts two stoic women, one of whom is standing looking off into the distance, while the other kneels down clutching the body of a fallen soldier who has dropped his flag. The inscription reads, “In difficulty and danger, regardless of self, they fed the hungry, clothed the needy, nursed the wounded and comforted the dying.”
+- W.E.B. Dubois on Johns Hopkins University (see Memory in Black and White)
+- The Rise of Jim Crow
+- David Blight at Johns Hopkins University
 
-Source: [Monument City Blog](http://monumentcity.net/2009/05/18/confederate-women-memorial-baltimore-md/)
+## Homewood House
+
+...
+
+## Shriver Hall
+
+> In 1939, alumnus and Baltimore attorney, Alfred Jenkins Shriver, left the University the residue of his estate to build a lecture hall. According to the peculiar conditions of the will, Shriver Hall was to be adorned with murals depicting the Hopkins class of 1891 (Shriver’s class), the original faculties of philosophy and of medicine, the original boards of trustees of the University and the Johns Hopkins Hospital, Baltimore clipper ships, ten Baltimore philanthropists, and ten “famous beauties of Baltimore,” who were named in Mr. Shriver’s will. The last mural has inspired controversy from the time it was publicly announced, including objections from some of the women named in the will, who did not wish to be painted.The university was forced to accept the terms of the gift-or lose it.
+
+Source: [Fun Facts about JHU](http://alumni.jhu.edu/files/docs/FunFactsaboutJHU.pdf) (PDF)
+
+See also:
+
+- [The Road that Shriver Built](http://blogs.library.jhu.edu/wordpress/2015/07/the-road-that-shriver-built-and-a-surprise/)
+- [JHU Library Finding Aid](http://ead.library.jhu.edu/rg09-020.xml)
 
 # Lee-Jackson Monument
 
@@ -198,6 +248,11 @@ On October 2, the _Sun_ reported on the visit, writing:
 In a separate editorial, the Sun plaintively asked “Why Not Leave Lee and Jackson Out of It?” continuing:
 
 > The Lee-Jackson monument has been highly praised as a work of art and the sentiment attaching to it could not fail to make it appeal to any southerner. On a sight-seeing tour of the city by a person from below the Potomac it obviously is a must. There will be some, however, who will regret the propagandist aspects attending Governor Thurmond’s visit to the monument, just as they have regretted the use of General Lee’s picture in connection with other public demonstrations of the Dixiecrats. General Lee and General Jackson were professional soldiers who kept clear of politics. Neither was active in the movement for secession that preceded war. When the time came to make a decision, it is true that both embraced the cause of their State against the Federal Union. Certainly in the case of Lee, the decision was made with great reluctance. It may be doubted whether either Lee or Jackson would relish being the symbol of any political party. Since neither Lee nor Jackson is here to express an opinion, or to approve, wouldn’t it be better to leave them out?
+
+In 2008, Johns Hopkins University declined to rent their facilities to the Sons of Confederate Veterans after 20 years of hosting Lee-Jackson Monument programs on their campus. According to a [letter posted to a forum for Civil War reenactors](http://www.cwreenactors.com/forum/archive/index.php/t-11331.html):
+
+> Every year since 1988, the Johns Hopkins University has rented the Clipper Room in Shriver Hall, or on several occasions another facility, to the Son of Confederate Veterans to hold our post ceremony social gathering. However this year is different. The John Hopkins University has refused to rent the Clipper Room, or any other facility, to our organization. The sole reason given, per a Johns Hopkins representative, was that we are a “Confederate” organization. Make no mistake about it, we were not denied because the facility was unavailable, or for any other legitimate reason, we were denied because of who we are. In addition, the Hopkins representative stated that this ruling came directly from the President of the Johns Hopkins University, Mr. William Brody.
+
 
 # Conclusion and Discussion
 
