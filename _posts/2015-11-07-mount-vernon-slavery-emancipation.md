@@ -1,7 +1,12 @@
-# Mount Vernon Place - Stories of Slavery & Emancipation
+---
+layout: post
+title: "Mount Vernon Place – Stories of Slavery & Emancipation"
+summary: "A walk around Mount Vernon Place highlighting the history of slavery and emancipation in Baltimore and Maryland."
+---
 
-# Introduction
-Establish context for interpreting enslavement
+# 1: Introduction
+
+The purpose of the initial introduction is to establish context for interpreting enslavement.
 
 Aug 5, 1862 - "Wanted - A good Colored Cook, Washer, and Ironer. Slave preferred. Apply at 62 Mt. Vernon Place."
 
@@ -16,17 +21,18 @@ How we talk about slavery matters?
 - Say "enslaved people" not "slaves,"
 - Say "slaveholder" not "slave owner"
 
-Sources for understanding slavery in Baltimore
-Census
-Directories
-WPA Slave Narratives
+Sources for understanding slavery in Baltimore?
 
-# South Square
+- Census
+- Directories
+- WPA Slave Narratives
+
+# 2: South Square
 
 Establish historic context of slavery and freedom in pre-Civil War Baltimore - begin with example tied to Lafayette Monument and move forward in time
 
 ## Lafayette Monument (1924)
-Scultptor Andrew O'Connor, Jr.
+Sculptor Andrew O'Connor, Jr.
 
 Explain: Marquis de Lafayette's life opens a window in the changing nature of slavery in Baltimore and the United States between his arrival in U.S. in 1777 and his death in 1834.
 
@@ -218,7 +224,7 @@ Where did servants and enslaved people live and work in these houses?
 - In 1863, the house was briefly home to the Allston Club - a group of Baltimore artists, who met one evening a week at the studio of Frank B. Mayer, organized a regular club in the winter of 1858 at Dr. John Buckler's residence, 40 St. Paul Street.
 - In February 1863, the Allston Association moved to the Oliver Mansion:
 
-> ”Owing to the pronounced Southern sentiments of its members, the club-house was closed by order of General Schenck, commandant of the MIddle Department on the 30th of June, 1863, the first day of the battle of Gettysburg, when the result of the battle was uncertain, and the Confederate army was hourly expected in Baltimore. The club-house remained closed during the continuance of the war. General Schenck advised his successor not to allow it to be re-opened, as it had been 'a nest of secessionists'"[14]
+> ”Owing to the pronounced Southern sentiments of its members, the club-house was closed by order of General Schenck, commandant of the Middle Department on the 30th of June, 1863, the first day of the battle of Gettysburg, when the result of the battle was uncertain, and the Confederate army was hourly expected in Baltimore. The club-house remained closed during the continuance of the war. General Schenck advised his successor not to allow it to be re-opened, as it had been 'a nest of secessionists'"[14]
 
 # North Square
 
@@ -280,21 +286,21 @@ Born at "Belvedere" in Baltimore County, Maryland on June 4, 1752, John Eager Ho
 - Worked as a member of the American Colonization Society, along with Francis Scott Key, to promote the migration of free blacks to Africa in the 1810s and 1820s.
 - 11 enslaved people at time of death - See Private Sales - Estate Inventory, 1827
 
-Sorrell Horse 52.50 James Porter 52.50
-Negro Boy Joe 50 James Porter 50
-Negro Boy Sam to serve 9 years 140 Thomas Shaw 140
-Negro Woman Milcha to serve 14 years 200 George Howard
-Negro Woman Kitty + child 200 Wm. G. Read
-Negro Boy Jim 180 Wm. G. Read
-Negro Woman Nelly to serve 9 months 20 Wm. G. Read
-Negro Man (old) Jim 5 E. Bowen
-Negro Woman (old) Phoebe 20 E. Bowen
-Lot Bacon 5.75 Wm. G. Read
-Lot Lard about 40lb. 3 Wm. G. Read
-Negro Boy Bill 150 Thomas Shaw 150
+- Sorrell Horse 52.50 James Porter 52.50
+- Negro Boy Joe 50 James Porter 50
+- Negro Boy Sam to serve 9 years 140 Thomas Shaw 140
+- Negro Woman Milcha to serve 14 years 200 George Howard
+- Negro Woman Kitty + child 200 Wm. G. Read
+- Negro Boy Jim 180 Wm. G. Read
+- Negro Woman Nelly to serve 9 months 20 Wm. G. Read
+- Negro Man (old) Jim 5 E. Bowen
+- Negro Woman (old) Phoebe 20 E. Bowen
+- Lot Bacon 5.75 Wm. G. Read
+- Lot Lard about 40lb. 3 Wm. G. Read
+- Negro Boy Bill 150 Thomas Shaw 150
 
 Mrs. Sophia Read
-Negro Woman Maria 150
+- Negro Woman Maria 150
 
 Examples of gradual emancipation - Sam, 9 years; Milcha, 14 years; Nelly, 9 months
 
@@ -302,7 +308,7 @@ Take in the view of:
 
 - The Latrobe (1911, Glidden & Friz) at Charles and Read - site of John H.B. Latrobe's 1860s mansion
 
-John H.B. Latrobe, principal organizer and corresponding secretary of the Maryland chapter of the American Colonization Society;
+**John H.B. Latrobe**, principal organizer and corresponding secretary of the Maryland chapter of the American Colonization Society;
 
 - Son of John Eager Howard, Charles Howard and Charles C. Harper (son of Robert Goodloe Harper) hired Robert S. Finley to promote colonization around the state
 - But for most free people of color, colonization came to look more and more like White-imposed deportation-one that they were determined to resist.(Resistance, 37)
@@ -317,15 +323,17 @@ Methodism had an early association with abolitionism
 - December 19, 1796: "My spirit was grieved at the conduct of some Methodists, that hire slaves at public places to the highest bidder, to cut skin, and starve them; I think such members ought to be dealt with: on the side of oppressors there are law and power, but where are justice and mercy to the poor slaves? what eye will pity, what hand will help, or ear listen to their distresses? I will try if words can be like drawn sword, to pierce the hearts of the owners."
 - Sharp Street Church established with help of Methodist Abolitionists, Bethel AME
 
-East Square
+# East Square
 
 - Reporting in 1848, the Baltimore Sun bragged on how houses, "little short of regal palaces in point of splendor are springing into existence like magic," and in the "immediate neighborhood of the Washington Monument" … "beautiful abodes of wealth and luxury" could be found in great number. (Architecture of Baltimore)
 
 ## Branch Alley
-See 3-story back building, carriage house and stable
 
-Escape to Baltimore
-Richard Mason of Charles County advertised for his escaped man, Phil Carter, observing that "it is very possible that he is gone to Baltimore, as his father is living there on Howard's hill, and is a dray man, his name is James Carter."
+Look at the 3-story back building, carriage house and stable
+
+**Escape to Baltimore**: Richard Mason of Charles County advertised for his "escaped man,"" Phil Carter, observing:
+
+>"it is very possible that he is gone to Baltimore, as his father is living there on Howard's hill, and is a dray man, his name is James Carter."
 
 - Alleys inevitably narrow - no more than 12' wide by city codes - and became home to dense communities of both enslaved and free blacks
 - Legislation passed in 1819 set a maximum term of six years in the penitentiary in Baltimore for any free person White or Black, who "enticed, persuaded, or assisted," or knowingly harbored, any runaway slave.
@@ -335,8 +343,12 @@ Richard Mason of Charles County advertised for his escaped man, Phil Carter, obs
 Segregation developed around limited employment opportunities
 
 - Over 350 of the free blacks identified in the 1860 census listed their occupations as Carter, drayman, or carriage driver, a number only matched by the 570 laborers, and around 225 waiters and porters
-- In 1855, Frederick Douglass writing on Baltimore form New York, "Every hour sees the black man elbowed out of the employment by some newly arrived emigrant whose hunger and color are thought to give him a better title to the place."
-- 
+
+
+In 1855, Frederick Douglass wrote on Baltimore from New York:
+
+>"Every hour sees the black man elbowed out of the employment by some newly arrived emigrant whose hunger and color are thought to give him a better title to the place."
+
 ## Richard E. France House - 12 E. Mt. Vernon Place
 Richard France (F., Broadbents & Co.) - residence 1860 directory as 50 Mt. Vernon Place, into lottery business, lost everything built Brownstone row next door
 
@@ -410,7 +422,7 @@ Democratic reaction against black Republican politics
 ## Clarke Residence?
 Mrs. Maria Clarke, owned one female slave (1860), lived with Mrs. William B. Clarke at 40 Mt. Vernon Place (Martha M. Clark owned another female slave)
 
----- 
+----
 
 [1] [](https://www.google.com/url?q=http://rmc.library.cornell.edu/lafayette/exhibition/english/abolitionist/&sa=D&usg=AFQjCNFFHGO0FhZdvrDCIrW3PQQOPUJaSg)[http://rmc.library.cornell.edu/lafayette/exhibition/english/abolitionist/](https://www.google.com/url?q=http://rmc.library.cornell.edu/lafayette/exhibition/english/abolitionist/&sa=D&usg=AFQjCNFFHGO0FhZdvrDCIrW3PQQOPUJaSg)
 [2] [](https://www.google.com/url?q=http://www.mountvernon.org/slavery&sa=D&usg=AFQjCNER8c7EUzaAB9PDEn7mDTyZPhmEug)[http://www.mountvernon.org/slavery](https://www.google.com/url?q=http://www.mountvernon.org/slavery&sa=D&usg=AFQjCNER8c7EUzaAB9PDEn7mDTyZPhmEug)

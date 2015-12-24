@@ -1,4 +1,11 @@
-# 1: Black and Jewish Civil Rights Heritage by Bike
+---
+layout:     post
+title:      Black and Jewish Civil Rights Heritage by Bike
+date:       2015-10-11
+summary:    "A bike tour exploring how black and Jewish Baltimore residents shaped the Civil Rights movement and the historic places of northwest Baltimore."
+---
+
+# 1: Overview
 
 ## 1.1: What is this tour about?
 

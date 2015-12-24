@@ -1,3 +1,9 @@
+---
+layout: post
+title: "Confederate Monuments in Wyman Park Dell"
+summary: "A walk around Wyman Park Dell and Charles Village to learn about ongoing review of Baltimore’s public Confederate monuments, the history behind these statues, and the complicated issue of public memory and public art."
+---
+
 # Overview
 
 _**Note**: These tour notes were prepared by Eli Pousson in November 2015 for a Baltimore Heritage tour and discussion program organized on December 5, 2015 in advance of a public meeting on December 15, 2015 by the Special Commission to Review Baltimore’s Public Confederate Monuments._
@@ -12,7 +18,7 @@ Please join us for a walk around Wyman Park Dell and Charles Village to learn ab
 - History of Confederate memory in Baltimore and the United States
 - Past and present social context of monuments/public art in Baltimore
 - Past and present physical context of Wyman Park Dell/Charles Village
-- Alternate approaches to the interpretation of Baltimore’s monuments 
+- Alternate approaches to the interpretation of Baltimore’s monuments
 
 ## What are the goals of this tour?
 
@@ -101,7 +107,7 @@ _About the bust_
 
 _About Hans Schuler_
 
-> Hans Schuler (1874-1951) was a noted Baltimore monument maker whose works include Hopkins University's Sidney Lanier and a statue of President James Buchanan in Washington, D.C. 
+> Hans Schuler (1874-1951) was a noted Baltimore monument maker whose works include Hopkins University's Sidney Lanier and a statue of President James Buchanan in Washington, D.C.
 
 _About Johns Hopkins_
 
@@ -214,7 +220,7 @@ See also:
 
 **December 1928**: J. Harry Ferguson, president of the Colonial Trust Company, died and, in his will, provided a gift of $100,000 to the Baltimore Municipal Arts Society providing for the erection of a monument dedicated to Robert E. Lee and Thomas J. Jackson.
 **October 1934**: In his will, Ferguson required that the gift be turned over only after the death of his sister, Ella F. Ward, who passed away on October 10, 1934.
-**1936**: Design selected, controversial reception centered largely on the authenticity of the hats and other clothing worn by the figures. 
+**1936**: Design selected, controversial reception centered largely on the authenticity of the hats and other clothing worn by the figures.
 ** July 1939**: Construction begins on the pedestal. Artist planned to be done in the summer of 1938; in August 1939, the artist offered a new estimate of completion for early 1941. Later revised to late spring 1942, the work stopped again due to “an acute shortage of Italian clay” and limits on metal during World War II.
 **1948**: Lee-Jackson Monument dedicated
 
@@ -265,7 +271,7 @@ Source: Memory in Black and White ([Notes](http://elipousson.github.io/notes/201
 ## How to make comments
 
 ## How Baltimore has discussed this issue before
- 
+
 Some people in Baltimore opposed the creation of these monuments, criticized the racism within the Confederate memorial agenda. While examples of direct responses to the early monuments are hard to find, it is clear that black activists saw the symbols of Confederate memory as a rallying point for opposition.
 
 In 1880, scores of Baltimore’s Union veterans petitioned against a proposal to locate a Confederate monument on Eutaw Place. Even some Confederate veterans stood up in opposition, among them Charles T. Crane who wrote to the _Baltimore Sun_ stating:
@@ -275,7 +281,7 @@ In 1880, scores of Baltimore’s Union veterans petitioned against a proposal to
 Despite a strong vote of approval from the Baltimore City Council, the city’s Mayor Ferdinand C. Latrobe returned the resolution “without his approval,” noting:
 
 > The public highways and squares of the city are the common property of all, and we who are temporarily entrusted with their control, whatever our personal opinions may be, are not, in my judgment, justified in dedicating any portion of them to a purpose which would be in direct opposition to the sensibilities and wishes of large numbers of citizens.”
- 
+
 As Confederate veterans continued to try to diminish the importance of slavery to the Civil War, Baltimore’s native son Frederick Douglass remarked in 1884:
 
 > It is not well to forget the past. Memory was given to man for some wise purpose. The past is… the mirror in which we may discern the dim outlines of the future.

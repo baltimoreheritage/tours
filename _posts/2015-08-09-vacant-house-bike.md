@@ -1,3 +1,10 @@
+---
+layout: post
+title: "Vacant Houses by Bike: Salvage, Demolish or Preserve?"
+summary: "A bike ride highlighting the history of vacant housing in Baltimore. How should this history of vacant and abandoned housing inform Baltimore's debates over demolition and preservation?"
+categories: bike
+---
+
 # Introduction
 
 **Note:** These tour notes were prepared in July/August 2015 by Eli Pousson for [Vacant Houses by Bike: Vacant Houses by Bike: Salvage, Demolish or Preserve?](http://baltimoreheritage.org/event/vacant-houses-preservation-demolition-renewal-bike/) – a bike tour program organized by Baltimore Heritage on August 9. They are presented here in their rough form including extended from a variety of publications. We hope to revise and expand these notes if we repeat this tour in the future.
@@ -137,7 +144,7 @@ When did we start using demolition to solve our vacant house problem? As City Bu
 
 Effort continued in 1906, "The City Council can make or mar the best building regulator ever compiled for a municipality, according to Building Inspector Preston. As the proposed laws now stand they are said to be inadequate in some instances and too strenuous in others. If a happy medium is met, it is the opinion of Mr. Preston that Baltimore will have the most up-to-date building code of any city in the country."
 
-**March 21, 1907**: MR. PRESTON ALARMED: Says Tailors And Shoemakers Try To Remodel Buildings, 
+**March 21, 1907**: MR. PRESTON ALARMED: Says Tailors And Shoemakers Try To Remodel Buildings,
 
 >"I was astounded at the carelessness with which buildings were being remodeled in East Baltimore," Mr. Preston said. The foreign population which has crowded in the section called the ghetto employ tailors and shoemakers to build houses. The owner of the house on High street who was killed was a tailor, yet he had torn out an end wall and was reconstructing the building. One of the inspectors of this department ordered him to stop work on the building and put in more props a short time before the collapse...
 >There should be a law requiring builders to be licensed as plumbers are. As the law now is, we can't refuse a man a building permit because he is incompetent to erect a building."
@@ -146,7 +153,7 @@ Effort continued in 1906, "The City Council can make or mar the best building re
 
 **1943**: Housing Division established within the Health Department, 1949 becomes the Office of Housing and Law Enforcement and in 1951, Housing Bureau of the Health Department, creates the "Baltimore Plan"
 
-**Dec 6, 1981**: Vacant houses an 'insurmaounble' problem for neighbors (Baltimore Sun): 
+**Dec 6, 1981**: Vacant houses an 'insurmaounble' problem for neighbors (Baltimore Sun):
 
 >There are 6,142 addresses on the city's latest list of abandoned houses. The number changes slightly every year, but despite a variety of official efforts to alleviate the situation through prosecution rehabilitation and sales, it has remained about the same for a long time.
 >In recent weeks, city officials have been meeting with groups of property investors to try to find new solutions to this perpetual problem. Last week, a City Council hearing was held to discuss more effective marketing of the several thousand vacant properties the city has acquired because of unpaid property taxes, and this month the Citizens Planning and Housing Agency has begun a comprehensive study of abandonment...
@@ -257,7 +264,7 @@ The panel selected ten winning designs and provided each artist with donated pai
 
 **1938**: Hillery Holton, died at age 79 at the house
 
-**August 1953**: Mrs. Tamathia Chandler, age 27 - lived at the house in 
+**August 1953**: Mrs. Tamathia Chandler, age 27 - lived at the house in
 
 **November 1963**: 410 George Street:
 

@@ -1,4 +1,9 @@
-# Downtown Baltimore: Civil Rights and Urban Renewal
+---
+layout: post
+title: "Downtown Baltimore – Civil Rights and Urban Renewal"
+summary: "A walk around downtown Baltimore exploring the history of race, Civil Rights and changing ideas about urban renewal from the 1950s up to the present."
+date:       2015-10-16
+---
 
 This tour was most recently modified on 2015 October 6 based on a series of tours of Downtown's West Side developed in 2011.
 
@@ -8,13 +13,9 @@ This tour was most recently modified on 2015 October 6 based on a series of tour
 - About Baltimore Heritage
 - Tour overview
 
-## Introduction
-
-### Overview
-
 ## Preston Gardens – St. Paul Street
 
-_See the main [Preston Gardens article](elipousson.github.io/preston-gardens/) for more information._
+_See the main [Preston Gardens article](http://elipousson.github.io/preston-gardens/) for more information._
 
 ## Charles Center
 
@@ -24,7 +25,7 @@ _See the main [Preston Gardens article](elipousson.github.io/preston-gardens/) f
 
 > A double portrait of former Baltimore mayor, Thomas D'Alesandro, Jr., a driving force behind the downtown revitalization of Charles Center. One portrait depicts D'Alesandro casually standing by the side of the plaza looking out over Charles Center. His proper right hand rests on the railing of the plaza and his proper left hand rests on his left trouser pocket. A few feet away, another portrait depicts him relaxing on a park bench with his arms stretched out over the back of the bench. His legs are crossed and he looks over to his proper left.
 
-Died in 1987:
+Thomas D'Alesandro died in 1987:
 
 > As mayor from 1947 to 1959, D'Alesandro presided over a period of vast physical improvements in Baltimore. An airport was opened outside the city during his tenure, and major league baseball returned to Baltimore.
 > In 1958, he won voter approval for the financing of the Charles Center urban renewal project, launching the rejuvenation that remade much of the heart of his beloved city. [Source.](http://articles.latimes.com/1987-08-29/news/mn-1349_1_thomas-d-alesandro-jr)
@@ -129,7 +130,7 @@ George Kostritsky of RTKL envisioned an urban landscape of light, sculpture, and
 
 - Began as Eisenberg Underselling Store, later Eisenberg Company in 1901, by 1928 had over 600 employees at several locations, motto "prices that are irreproachable everywhere"
 - David A. Schulte, "tobacco store potentate," merged with United Cigar Stores in 1927, Entered five and dime retail business in 1928 with goal of 1,000 stores, $35,000,000 investment
-- ** 1954 January 28:** Schulte United Five-and-Dime dropped "color bar at eating counters in Baltimore" 
+- ** 1954 January 28:** Schulte United Five-and-Dime dropped "color bar at eating counters in Baltimore"
 
 ### Kirby-Woolworth Building – 223 W. Lexington Street
 
