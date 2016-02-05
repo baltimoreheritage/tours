@@ -18,7 +18,7 @@ Please join us for a walk around Wyman Park Dell and Charles Village to learn ab
 - History of Confederate memory in Baltimore and the United States
 - Past and present social context of monuments/public art in Baltimore
 - Past and present physical context of Wyman Park Dell/Charles Village
-- Alternate approaches to the interpretation of Baltimore’s monuments
+- Alternate approaches to the interpretation of Baltimore’s monuments 
 
 ## What are the goals of this tour?
 
@@ -59,13 +59,7 @@ Source: Memory in Black and White ([Notes](http://elipousson.github.io/notes/201
 
 # Union Soldier’s and Sailors Monument
 
-- Dates: dedicated 1909, moved 1959
-- Creator:
-- Location: N. Charles Street
-- Dimensions:
-- Material:
-
-- **April 5, 1906**: Maryland State legislature authorized funding for the construction of the [Union Soldiers and Sailors Monument](https://en.wikipedia.org/wiki/Union_Soldiers_and_Sailors_Monument)in Baltimore. Likely a reaction to the installation of the Confederate monument on Mount Royal in 1903.
+- **April 5, 1906**: Maryland State legislature authorized funding for the construction of the [Union Soldiers and Sailors Monument](https://en.wikipedia.org/wiki/Union_Soldiers_and_Sailors_Monument) in Baltimore. Likely a reaction to the installation of the Confederate monument on Mount Royal in 1903.
 - **November 6, 1909**: Monument dedicated in Druid Hill Park
 - **1959**: Baltimore relocated the monument to Wyman Park Dell to make way for the construction of the Jones Falls Expressway through Druid Hill Park.
 
@@ -83,6 +77,7 @@ After the letter met with equally strong responses and critiques, "A Maryland Wo
 Finally, on July 17, 1906, “A Maryland Woman” again responds again to critics, writing:
 
 > ”Yes, there stands another monument here, erected by the efforts and the work of the Southern women of Maryland, with loving hearts and willing hands, but not one cent of the State's funds was asked or received. It stands, white, as stainless as the lives, as pure as the souls of our dear dead heroes—our _gloria victis_ to the end of time.
+
 
 # Johns Hopkins Bust
 
@@ -107,7 +102,7 @@ _About the bust_
 
 _About Hans Schuler_
 
-> Hans Schuler (1874-1951) was a noted Baltimore monument maker whose works include Hopkins University's Sidney Lanier and a statue of President James Buchanan in Washington, D.C.
+> Hans Schuler (1874-1951) was a noted Baltimore monument maker whose works include Hopkins University's Sidney Lanier and a statue of President James Buchanan in Washington, D.C. 
 
 _About Johns Hopkins_
 
@@ -115,17 +110,24 @@ _About Johns Hopkins_
 
 Sources[Monument City Blog](http://monumentcity.net/2009/03/29/johns-hopkins-monument-baltimore-md/),  [JHU Magazine](http://pages.jh.edu/jhumag/0602web/statues.html)
 
+
+
 # Confederate Women’s Monument
 
-- Dates:1916
 - Creator: J. Maxwell Miller
 - Location: N. Charles and University Parkway
-- Dimensions:
-- Material:
+  
+The sculpture was created by J. Maxwell Miller, a Baltimorean, who taught at the Maryland Institute College of Art, and eventually became the director of the Rinehart School (also sculptor of the Star-Spangled Banner Centennial Monument). The sculpture depicts a dying soldier being cradled by his mother in the foreground. Behind this pair stands a woman looking off into the distance, who typifies the "devoted women of the Confederacy". The dying soldier and his mother is a pieta, a traditional Christian sculptural subject that depicts Christ dying in the arms of his mother Mary after his crucifixion. 
 
-_About the monument_
+The erection of the monument was part of a larger movement spearheaded by Confederate veterans beginning in 1906 to place a monument to honor the sacrifices of Confederate women in the capital of each of the thirteen Southern states. The original plan was for the states to erect a replica of the Confederate Women's monument located in Richmond, Virginia. However, by 1910, the Maryland Chapter of the Daughters of the Confederacy decided to have their own design for the monument.  
+  
+The inscription on the front reads:
 
-> Donated by the State of Maryland, this monument is by J. Maxwell Miller, the artist behind the Star-Spangled Banner Centennial Monument. The memorial depicts two stoic women, one of whom is standing looking off into the distance, while the other kneels down clutching the body of a fallen soldier who has dropped his flag. The inscription reads, “In difficulty and danger, regardless of self, they fed the hungry, clothed the needy, nursed the wounded and comforted the dying.”
+> TO THE/CONFEDERATE WOMEN/OF MARYLAND/ 1861-1865/ "THE BRAVE AT HOME"
+
+The inscription on the back reads:
+
+> IN DIFFICULTY AND DANGER/ REGARDLESS OF SELF/THEY FED THE HUNGRY/CLOTHED THE NEEDY/ NURSED THE WOUNDED/AND/COMFORTED THE DYING. 
 
 - **1914**: General Assembly of Maryland approved a bill entitled "An act to erect a suitable monument in the city of Baltimore to commemorate the heroism, devotion and self-sacrifice of the women of Maryland in their service to the wounded Confederate soldiers who came under their care in the war between the States—1861-1865." The act appropriated $12,000 in state funding and a large number of private contributions to "The Maryland Confederate Women's Monument Fund"
 - **November 2, 1916**: Confederate Women's Monument dedicated on University Parkway
@@ -151,6 +153,8 @@ Sources: [History of the UDC](http://www.hqudc.org/history-of-the-united-daughte
 - Location: Charles Street near University Parkway
 - Dimensions: almost 9 feet
 - Material: Bronze and unpolished granite boulders
+
+Timeline
 
 - **1881**: Sidney Lanier dies
 - **1941**: Monument cast
@@ -197,30 +201,51 @@ Potential topics could include:
 
 ## Homewood House
 
-...
+In 1897, Homewood House became the first Gilman School, known at its founding as The Country School for Boys. In 1902 the property was reassembled and given to Johns Hopkins University.
+
+In 1916 the mansion became the University Faculty Club. In 1936, Homewood was converted to administrative offices. Johns Hopkins University now operates Homewood Museum, which opened to the public in 1987, and its Federal-style architecture, with its red brick and white marble, serves as the inspiration for the campus' design.
+
+W.E.B. Du Bois in Black Reconstruction in America (1935), wrote the last chapter “The Propaganda of History” argued that the two major centers of history, Columbia University and Johns Hopkins University, had begun a major rewrite of Reconstruction history downplaying any important role that blacks played during the era. Three main themes emerged between 1895 and 1935:
+
+1. Endless sympathy with the white south
+2. Ridicule, contempt or silence for the Negro
+3. A judicial attitude toward the North, which concludes that the North under great misapprehension did a previous wrong [in Reconstruction], but eventually saw its mistake and retreated.
+
+From the late 1890s, the large scale movement of industry from the Northeast to the South. Reconciliation was necessary to allow this expansion into the South and for capitalists to explore its cheaper, un-unionized labor. Celebration of the Confederacy helped to cope with defeat and the imposition of the new industrial order as nostalgia replaced bereavement.
 
 ## Shriver Hall
+
+About Shriver:
+
+> Mr. Shriver is a member of the Phi Beta Kappa College Fraternity; he was for more than ten years secretary of the General Alumni Association of the Johns Hopkins University. Now in the prime of early middle life, he has achieved an honorable position in his chosen profession, and the standing of a good citizen of his community. He is a member of several social clubs having been one of the founders and first officers of the Johns Hopkins Club. He has taken a prominent part in the social life of the city. He resides at the University Club. His name is among the 320 from Maryland mentioned in Who's Who in America.
+
+[Source](https://archive.org/stream/menofmarkinmaryl04stei/menofmarkinmaryl04stei_djvu.txt)
 
 > In 1939, alumnus and Baltimore attorney, Alfred Jenkins Shriver, left the University the residue of his estate to build a lecture hall. According to the peculiar conditions of the will, Shriver Hall was to be adorned with murals depicting the Hopkins class of 1891 (Shriver’s class), the original faculties of philosophy and of medicine, the original boards of trustees of the University and the Johns Hopkins Hospital, Baltimore clipper ships, ten Baltimore philanthropists, and ten “famous beauties of Baltimore,” who were named in Mr. Shriver’s will. The last mural has inspired controversy from the time it was publicly announced, including objections from some of the women named in the will, who did not wish to be painted.The university was forced to accept the terms of the gift-or lose it.
 
 Source: [Fun Facts about JHU](http://alumni.jhu.edu/files/docs/FunFactsaboutJHU.pdf) (PDF)
 
-See also:
+MLK Day in 1988:
 
-- [The Road that Shriver Built](http://blogs.library.jhu.edu/wordpress/2015/07/the-road-that-shriver-built-and-a-surprise/)
-- [JHU Library Finding Aid](http://ead.library.jhu.edu/rg09-020.xml)
+> The idea of Martin Luther King, Jr. Day as a holiday was promoted by labor unions in contract negotiations.[2](#) After King's death, U.S. Representative John Conyers (a Democrat from Michigan) and U.S. Senator Edward Brooke (a Republican from Massachusetts) introduced a bill in Congress to make King's birthday a national holiday. The bill first came to a vote in the U.S. House of Representatives in 1979. However, it fell five votes short of the number needed for passage.
+
+In Virginia, it was known as Lee–Jackson–King Day, combining King's birthday with the established Lee–Jackson Day. In 2000, Lee–Jackson Day was moved to the Friday before Martin Luther King Jr. Day, establishing Martin Luther King Jr. Day as a holiday in its own right.
+
+> Every year since 1988, the Johns Hopkins University has rented the Clipper Room in Shriver Hall, or on several occasions another facility, to the Son of Confederate Veterans to hold our post ceremony social gathering. However this year is different. The John Hopkins University has refused to rent the Clipper Room, or any other facility, to our organization. The sole reason given, per a Johns Hopkins representative, was that we are a “Confederate” organization. Make no mistake about it, we were not denied because the facility was unavailable, or for any other legitimate reason, we were denied because of who we are.
+
+Sources: [JHU blog](http://blogs.library.jhu.edu/wordpress/2015/07/the-road-that-shriver-built-and-a-surprise/), [Records on Buildings and Grounds, Shriver Hall Murals 1953-1958](http://ead.library.jhu.edu/rg09-020.xml)
 
 # Lee-Jackson Monument
 
-- Dates:
-- Creator:
-- Location:
-- Dimensions:
-- Material:
-
+The Lee and Jackson Monument was the first double equestrian monument in the United States. The funds for the sculpture came from J. Henry Ferguson, the banker who organized the Colonial Trust Company. In his will, he left specific instructions for a monument of his childhood heroes, Robert E. Lee and Stonewall Jackson, which was gifted to the City of Baltimore. Although Ferguson died in 1928, the sculpture was not dedicated until 1948 due to various factors, including World War II.
+  
+The monument depicts the two men on their horses right before departing for the Battle of Chancellorsville. While Jackson was fatally wounded in the battle, the Confederate army ultimately won, and the battle was later considered to be Lee's greatest victory.  
+ 
+The sculpture was made by **Laura Gardin Fraser**, who won the design competition for the commission in 1935. She commissioned the architect John Russell Pope (who designed the Baltimore Museum of Art directly north of the monument) to design the base of the monument. The sculpture was cast in 1946. The monument was dedicated on May 1, 1948, the eighty-fifty anniversary of the eve of the Battle of Chancellorsville.
+ 
 **December 1928**: J. Harry Ferguson, president of the Colonial Trust Company, died and, in his will, provided a gift of $100,000 to the Baltimore Municipal Arts Society providing for the erection of a monument dedicated to Robert E. Lee and Thomas J. Jackson.
 **October 1934**: In his will, Ferguson required that the gift be turned over only after the death of his sister, Ella F. Ward, who passed away on October 10, 1934.
-**1936**: Design selected, controversial reception centered largely on the authenticity of the hats and other clothing worn by the figures.
+**1936**: Design selected, controversial reception centered largely on the authenticity of the hats and other clothing worn by the figures. 
 ** July 1939**: Construction begins on the pedestal. Artist planned to be done in the summer of 1938; in August 1939, the artist offered a new estimate of completion for early 1941. Later revised to late spring 1942, the work stopped again due to “an acute shortage of Italian clay” and limits on metal during World War II.
 **1948**: Lee-Jackson Monument dedicated
 
@@ -257,7 +282,6 @@ In 2008, Johns Hopkins University declined to rent their facilities to the Sons 
 
 > Every year since 1988, the Johns Hopkins University has rented the Clipper Room in Shriver Hall, or on several occasions another facility, to the Son of Confederate Veterans to hold our post ceremony social gathering. However this year is different. The John Hopkins University has refused to rent the Clipper Room, or any other facility, to our organization. The sole reason given, per a Johns Hopkins representative, was that we are a “Confederate” organization. Make no mistake about it, we were not denied because the facility was unavailable, or for any other legitimate reason, we were denied because of who we are. In addition, the Hopkins representative stated that this ruling came directly from the President of the Johns Hopkins University, Mr. William Brody.
 
-
 # Conclusion and Discussion
 
 ## How to reinterpret the past
@@ -270,8 +294,10 @@ Source: Memory in Black and White ([Notes](http://elipousson.github.io/notes/201
 
 ## How to make comments
 
-## How Baltimore has discussed this issue before
+…
 
+## How Baltimore has discussed this issue before
+ 
 Some people in Baltimore opposed the creation of these monuments, criticized the racism within the Confederate memorial agenda. While examples of direct responses to the early monuments are hard to find, it is clear that black activists saw the symbols of Confederate memory as a rallying point for opposition.
 
 In 1880, scores of Baltimore’s Union veterans petitioned against a proposal to locate a Confederate monument on Eutaw Place. Even some Confederate veterans stood up in opposition, among them Charles T. Crane who wrote to the _Baltimore Sun_ stating:
@@ -281,7 +307,7 @@ In 1880, scores of Baltimore’s Union veterans petitioned against a proposal to
 Despite a strong vote of approval from the Baltimore City Council, the city’s Mayor Ferdinand C. Latrobe returned the resolution “without his approval,” noting:
 
 > The public highways and squares of the city are the common property of all, and we who are temporarily entrusted with their control, whatever our personal opinions may be, are not, in my judgment, justified in dedicating any portion of them to a purpose which would be in direct opposition to the sensibilities and wishes of large numbers of citizens.”
-
+ 
 As Confederate veterans continued to try to diminish the importance of slavery to the Civil War, Baltimore’s native son Frederick Douglass remarked in 1884:
 
 > It is not well to forget the past. Memory was given to man for some wise purpose. The past is… the mirror in which we may discern the dim outlines of the future.
