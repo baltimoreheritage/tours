@@ -1,8 +1,9 @@
 ---
 layout: post
 title: "Explore Southwest Baltimore Industrial Opportunities: Bus Tour and Discussion"
-summary: "A two-hour bus tour and discussion on industrial building reuse and economic development.”
+summary: "A two-hour bus tour and discussion on industrial building reuse and economic development."
 categories: bus
+date:       2015-05-29
 ---
 
 _This tour was developed in partnership with Carol Ott, Housing Policy Watch and Andrew Cook, Baltimore City Planning Department._
@@ -37,7 +38,7 @@ Source: US Census Bureau
 *U.S. Industrial Job Loss*
 
 - **1980-2005**: During this period the nation as a whole lost about 4.5 million manufacturing jobs, or about 24 percent of its manufacturing employment.
-- **2000-2010**: U.S. lost more than 5 million manufacturing jobs, amounting to nearly one-third of its manufacturing employment. 
+- **2000-2010**: U.S. lost more than 5 million manufacturing jobs, amounting to nearly one-third of its manufacturing employment.
 
 *From ULI Building Reuse Report*
 
@@ -45,7 +46,7 @@ For decades, Baltimore, along with the state of Maryland, has been recognized as
 
 *Technical Barriers*
 
-General technical barriers include a lack of on-site parking in many areas, limited access to safe and reliable transit alternatives, and environmental contamination issues. Lead paint presents a particularly thorny challenge for housing projects. Certain building types have layouts that are difficult to adapt to new uses, including industrial structures with deep floor plates, buildings with large interior volumes and small commercial buildings with upper floor offices or housing. 
+General technical barriers include a lack of on-site parking in many areas, limited access to safe and reliable transit alternatives, and environmental contamination issues. Lead paint presents a particularly thorny challenge for housing projects. Certain building types have layouts that are difficult to adapt to new uses, including industrial structures with deep floor plates, buildings with large interior volumes and small commercial buildings with upper floor offices or housing.
 
 Industrial buildings. "Older industrial buildings offer the most potential. They typically have high ceilings and large floor plates, but these need to be in neighborhoods with market potential."
 
@@ -53,7 +54,7 @@ Industrial buildings. "Older industrial buildings offer the most potential. They
 
 Codes were frequently cited as barriers to reuse, including building code requirements related to providing a secondary means of egress, as well as increasingly stringent energy codes and conflicts with historic preservation standards. Comments on zoning barriers focused on parking requirements and the need to adopt the new code provisions contained in Transform Baltimore, which would remove barriers to the reuse of small commercial structures in certain districts. The cumulative impact and sometimes conflicting nature of various reviews and regulations was also raised as a barrier.
 
----- 
+----
 
 # Carroll Park
 
@@ -67,7 +68,7 @@ Built in 1925, the tall Montgomery Park Warehouse and Retail Store is one of nin
 - **2000:** Montgomery Park has been adapted to a new use as offices. The new use also gave the building a new name but saved the sign replacing only two letters from the historic "Montgomery Ward" sign to preserve this icon on the southwest Baltimore skyline.
 - **2003:** The development won the Environmental Protection Agency's 2003 Phoenix Award.
 
----- 
+----
 
 # Carrollton Ridge/Booth-Boyd
 
@@ -99,7 +100,7 @@ Carrollton Ridge is home to Ohio Ave., which at approximately 25 feet long has e
 
 Original 1904? Rebuilt after 1914 fire?
 
-Pads or padding for coats or garments 
+Pads or padding for coats or garments
 
 *History - Royal Furniture*
 
@@ -130,9 +131,9 @@ Once two distinct buildings (a Furniture Warehouse and Truck Facility) now combi
 
 *Nearby*
 
-Examples of demolition Auto Shed and Warehouse (McHenry Street); continued industrial use Cambridge Building (McHenry and Pulaski Streets); new religious use Post Office Franklin Station to Emmanuel Temple FBH Church; vacancy (commercial buildings on W. Pratt Street). 
+Examples of demolition Auto Shed and Warehouse (McHenry Street); continued industrial use Cambridge Building (McHenry and Pulaski Streets); new religious use Post Office Franklin Station to Emmanuel Temple FBH Church; vacancy (commercial buildings on W. Pratt Street).
 
----- 
+----
 
 # Shipley Hill
 
@@ -168,7 +169,7 @@ Warehouses
 
 ## N. Warwick Avenue (Multiple)
 
----- 
+----
 
 # Midtown Edmondson
 
@@ -208,7 +209,7 @@ Zoning: M-1-2
 
 **1918**: Founded around 1918 as a cooperative venture by several grocery store chains in Philadelphia, the American Stores Company eventually converted most stores to the ACME brand.
 
-**1999**: The Company ceased to exist upon its acquisition by the Albertson’s grocery store chain 
+**1999**: The Company ceased to exist upon its acquisition by the Albertson’s grocery store chain
 
 Acme had groceries that are now Eddie’s Markets in Mount Vernon (Eager Street) and on Charles Street in Woodbrook. Both these locations were once Acme buildings.
 
@@ -218,7 +219,7 @@ This parcel was the site of a Consolidated Gas, Electric & Light Company utility
 
 **2004:** MDE completed a Phase I Brownfields Environmental Site Assessment in May 2004 finding potential for minimal hazards or impacts to the site.
 
----- 
+----
 
 # Hollins Roundhouse
 
@@ -229,7 +230,7 @@ Additions built in 1920, 1935, 1948, and 1983
  - Ask Jen Webber for input here
 - Discuss TechShop as potential anchor tenant, and the role of makerspaces spurring new manufacturing businesses (like Elevated Element)
 
----- 
+----
 
 # Mt. Clare
 
@@ -239,7 +240,7 @@ In the mid-1980s, when the new Mount Clare Junction shopping center was built, i
 
 A Safeway supermarket had anchored the plaza when it was created as part of city-sponsored neighborhood redevelopment in the 1980s. Over the years, many major tenants – a RiteAid drugstore, a Blockbuster video store as well as Safeway – moved out.
 
----- 
+----
 
 # Pigtown/Washington Village
 
@@ -255,7 +256,7 @@ Originally built as Carl Spoerer's Sons Company
 
 Questions for Chris Rothe:
 
-- When did you move to this site?	
+- When did you move to this site?
 - You had the opportunity then to leave the City. Why stay here?
 - What market do you serve?
 - Where did the idea for Write Notepads come from? How does the social enterprise piece work?
@@ -265,11 +266,11 @@ Questions for Chris Rothe:
 
 ## Belsinger Sign Works
 
-Founded in **1919** by Harry F. Belsinger, Sr., Belsinger Sign Works has been a true pioneer in the sign industry. 
+Founded in **1919** by Harry F. Belsinger, Sr., Belsinger Sign Works has been a true pioneer in the sign industry.
 
 Family owned and operated since its incorporation in **1931**, Belsinger Sign Works, Inc. is in it's third generation of the Belsinger family.
 
----- 
+----
 
 # Additional Notes
 

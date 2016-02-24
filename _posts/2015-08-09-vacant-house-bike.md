@@ -205,7 +205,7 @@ According to the Baltimore Sun, Lynn Smith, the manager at the Modern Junk and S
 
 BGE spokesman Ken DeFontes:
 
-> ”We're beginning to paint our copper wire green in order to make it evident when it shows up at the reclamation site that that's where it came from" 
+> ”We're beginning to paint our copper wire green in order to make it evident when it shows up at the reclamation site that that's where it came from"
 
 # Upton/Bolton Hill
 
@@ -237,7 +237,7 @@ While the West Segregation Ordinance was soon overturned as unconstitutional, it
 
 ## Nancy Thurlow Mural - 1811 McCulloh Street
 
-Vacant lots have always been a problem that comes along with vacant housing. 
+Vacant lots have always been a problem that comes along with vacant housing.
 
 **August 28, 1885**, Baltimore Sun:
 
