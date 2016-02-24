@@ -1,0 +1,6 @@
+_site/
+.sass-cache/
+_ignore/
+_drafts/
+*.lock
+*.plist
