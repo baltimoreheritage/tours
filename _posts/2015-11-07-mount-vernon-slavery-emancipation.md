@@ -8,7 +8,9 @@ summary: "A walk around Mount Vernon Place highlighting the history of slavery a
 
 The purpose of the initial introduction is to establish context for interpreting enslavement.
 
-Aug 5, 1862 - "Wanted - A good Colored Cook, Washer, and Ironer. Slave preferred. Apply at 62 Mt. Vernon Place."
+Example advertisement from August 5, 1862:
+
+> ”Wanted - A good Colored Cook, Washer, and Ironer. Slave preferred. Apply at 62 Mt. Vernon Place."
 
 Slavery is not a uniform or totalizing experience, experiences are different depending on:
 
@@ -16,12 +18,12 @@ Slavery is not a uniform or totalizing experience, experiences are different dep
 - time period, e.g. War of 1812 v. Civil War
 - individual circumstances
 
-How we talk about slavery matters?
+How do we talk about slavery and enslavement?
 
 - Say "enslaved people" not "slaves,"
 - Say "slaveholder" not "slave owner"
 
-Sources for understanding slavery in Baltimore?
+What are good sources for understanding slavery in Baltimore?
 
 - Census
 - Directories
@@ -34,13 +36,15 @@ Establish historic context of slavery and freedom in pre-Civil War Baltimore - b
 ## Lafayette Monument (1924)
 Sculptor Andrew O'Connor, Jr.
 
-Explain: Marquis de Lafayette's life opens a window in the changing nature of slavery in Baltimore and the United States between his arrival in U.S. in 1777 and his death in 1834.
+Marquis de Lafayette's life opens a window in the changing nature of slavery in Baltimore and the United States between his arrival in U.S. in 1777 and his death in 1834.
 
 **1783**: Marquis de Lafayette writes to Washington
 
-- Lafayette always expressed paternalistic sympathies for "the black part of mankind." His first encounter with slaves was with oystermen in South Carolina in 1777. He suggested using black troops in the American conflict and employed a former slave, James Armistead "Lafayette," as a spy and trusted valet.[1]
-- In 1783, after reading Condorcet's Réflexions sur l'Esclavage des Nègres (1781), the Marquis de Lafayette wrote his old commander George Washington suggesting an experiment. The two would purchase land where Washington's slaves would then work as free tenants. Lafayette believed that Washington's participation in the project would help to "render it a general practice." Lafayette hoped that his plan would prove successful in the United States and then spread it out into the West Indies. Lafayette expressed the passionate sentiment that "If it be a wild scheme, I had rather be mad in this way, than to be thought wise in the other task." By June of 1785, Lafayette was ready to begin the experiment, ordering his attorney to purchase a plantation in French Guiana with the proviso that none of the slaves on the plantation be sold or exchanged.
+- Lafayette always expressed paternalistic sympathies for "the black part of mankind." His first encounter with slaves was with oystermen in South Carolina in **1777**. He suggested using black troops in the American conflict and employed a former slave, James Armistead "Lafayette," as a spy and trusted valet.
+- In **1783**, after reading Condorcet's Réflexions sur l'Esclavage des Nègres (1781), the Marquis de Lafayette wrote his old commander George Washington suggesting an experiment. The two would purchase land where Washington's slaves would then work as free tenants. Lafayette believed that Washington's participation in the project would help to "render it a general practice." Lafayette hoped that his plan would prove successful in the United States and then spread it out into the West Indies. Lafayette expressed the passionate sentiment that "If it be a wild scheme, I had rather be mad in this way, than to be thought wise in the other task." By June of **1785**, Lafayette was ready to begin the experiment, ordering his attorney to purchase a plantation in French Guiana with the proviso that none of the slaves on the plantation be sold or exchanged.
 - From then on, he became part of an international network of activists. His last known letter was addressed to an abolitionist society in Glasgow (May 1834).
+
+[Source](http://rmc.library.cornell.edu/lafayette/exhibition/english/abolitionist/)
 
 **1789**: George Washington serving his first term as President (1789-1797)
 
@@ -60,7 +64,8 @@ Explain: Marquis de Lafayette's life opens a window in the changing nature of sl
 
 **Summarize**: What happened to slavery in Baltimore in the early 19th century?
 
-"Ultimately, for most Baltimoreans of the first decades of the 19th century, regardless of their occupation, slave-owning was an unaffordable luxury." (Black Social Capital, 1999)
+> ”Ultimately, for most Baltimoreans of the first decades of the 19th century, regardless of their occupation, slave-owning was an unaffordable luxury."
+> Black Social Capital, 1999
 
 Proportion of city residents who held slaves declined
 - Nearly 1/3 of city residents held at least one enslaved person in 1800, slaveholders were just over 1% of the city's white population in 1850
@@ -89,7 +94,8 @@ Domestic service required slaves to adapt their dress and manners to the work
 From Robert Robert's chapter on "The Benefit of Early Rising to Servants" in his 1827 Guide for Butlers & Other Household Staff. Roberts, an African American butler and active participant in Boston's abolitionist movement, strove for perfection in his work.[4]
 
 > ”And so our slave was getting along, making, probably, two guineas a week over and above the share of his wages due to his owners. Every month or so he would draw his pay from the steam-boat or hotel proprietor he might be serving at the time, take it home and divide it with his "misses," have a chat with the old lady, and pay her homage by waiting at table in his highest style, and perhaps, as our Artist saw him, escort her to and from the "meetin'-house.""
-Source: The Dandy Slave - [http://beck.library.emory.edu/iln/browse.php?id=iln38.1082.077](https://www.google.com/url?q=http://beck.library.emory.edu/iln/browse.php?id%3Diln38.1082.077&sa=D&usg=AFQjCNGB4cQbyDBL3qYV0yjBhRz1nXAeng)
+
+Source: [The Dandy Slave](http://beck.library.emory.edu/iln/browse.php?id=iln38.1082.077)
 
 ## Hackerman House/Thomas-Jencks House (ca1850)
 1 West Mount Place
@@ -101,11 +107,12 @@ Described as "one of the most elegant and princely specimens of architectural ta
 - Mrs. Thomas had grown up in a slaveholding home[5]
 
 Entertaining in style required skilled labor
+
 Mr. and Mrs. Thomas liked entertaining guests including Prince of Wales before he became Edward VII, Polish revolutionary Kossuth - whose suggested confection became the traditional Kossuth cake. The house featured a 60 foot long double parlor, connecting a great hall to the library and dining room; Gothic Revival dining room featured golden oak paneling and a brass-studded ceiling. (Dorsey, 37)
 
 In 1860, house held 2 female slaves, including a cook Sybby Grant (Clayton)
 
-December 6, 1861 letter from Sybby Grant to Dr. Hanson opens question on relationships:
+**December 6, 1861** letter from Sybby Grant to Dr. Hanson opens question on relationships:
 
 > “My Freind [sic], i take this opportunity to write you a few lines to inquire after your health i hope you are in good health i miss you very much in deed i hope you will be restored to your family again for i will ever hold you as a freind [sic] of mine when ever i cook a good dinner i wish you was here to enjoy it yesterday we had a fine pair of canvas backs ducks made a present to Miss anna they was cook splendid and i wish yous was here to enjoy them those terapins [sic] i [sent?] i done them in stile for you know that no one can do them like i can i knever [sic] get on my knees but what i ask God to remember you that God that delivered the children of isural will deliver you if you put your trust in him good night may God bless you miss anna is well and her ma is better miss nannie and miss Mary came down to night to let me see them after they were dress to go to the party they look very [pert?] miss anna wearing curls you ought to behold her face now no more at presen i remain you humle [sic] servant Sybby Grant"[6]
 
@@ -139,14 +146,16 @@ In 1860, Walters' household maintain by four servants, one white Elizabeth "Bets
 ## Garrett Jacobs Mansion (1853) - 11 W. Mt. Vernon Place
 Robert and Elizebth Garrett commissioned house, designed by Louis L. Long
 
-Born in 1847, Robert Garrett was followed by two brothers, T. Harrison (Harry), Henry (an invalid, most-likely from birth), and a sister, Mary Elizabeth. Robert was reared among the privileged graduating from Princeton College in 1867. However, when he was 16, he ran away from home to join the Virginia Company during the Civil War. His father persuaded him to return home and complete college.
+Born in **1847**, Robert Garrett was followed by two brothers, T. Harrison (Harry), Henry (an invalid, most-likely from birth), and a sister, Mary Elizabeth. Robert was reared among the privileged graduating from Princeton College in 1867. However, when he was 16, he ran away from home to join the Virginia Company during the Civil War. His father persuaded him to return home and complete college.
 
-Built in 1853 but enlarged in the 1870s to encompass four houses made into one with approximately 40 rooms, 100 windows, and 16 fireplaces. Renovation was wedding present for Robert Garrett, the elder son of John Work Garrett who was the President of the Baltimore and Ohio Railroad, and Robert Garrett & Sons, bankers and his wife Mary Frick in 1872.
+Built in **1853** but enlarged in the **1870s** to encompass four houses made into one with approximately 40 rooms, 100 windows, and 16 fireplaces. Renovation was wedding present for Robert Garrett, the elder son of John Work Garrett who was the President of the Baltimore and Ohio Railroad, and Robert Garrett & Sons, bankers and his wife Mary Frick in 1872.
 
-- In 1860, Robert Garrett (Mary Elizabeth Garett's father) owned 1 male slave, employed a free black male, and three white servants
+- In **1860**, Robert Garrett (Mary Elizabeth Garett's father) owned 1 male slave, employed a free black male, and three white servants
 - Across the street in the Thomas Mansion, a French governess worked with four free blacks and two slaves
 
-Richard Macks (1844 - ca1932) ex-slave, caterer at 541 W. Biddle Street. Born into slavery in Charles County, spent 11 years as head butler to Robert Garrett at Garrett Jacobs Mansion. WPA Slave Narrative:
+**Richard Macks** (1844 - c. 1932) ex-slave, caterer at 541 W. Biddle Street. Born into slavery in Charles County, spent 11 years as head butler to Robert Garrett at Garrett Jacobs Mansion.
+
+See WPA Slave Narrative:
 
 > ”I was born in Charles County in Southern Maryland in the year of 1844. My father's name was William (Bill) and Mother's Harriet Mack, both of whom were born and reared in Charles County-the county that James Wilkes Booth took refuge in after the assassination of President Lincoln in 1865. I had one sister named Jenny and no brothers: let me say right here it was God's blessing I did not. Near Bryantown, a county center prior to the Civil War as a market for tobacco, grain and market for slaves.
 
@@ -156,21 +165,21 @@ Richard Macks (1844 - ca1932) ex-slave, caterer at 541 W. Biddle Street. Born in
 
 > ”I remember well when President Buchanan was elected, I was a large boy. I came to Baltimore when General Grant was elected, worked in a livery stable for three years, three years with Dr. Owens as a waiter and coachman, 3 years with Mr. Thomas Winans on Baltimore Street as a butler, 3 years with Mr. Oscar Stillman of Boston, then 11 years with Mr. Robert Garrett on Mt. Vernon Place as head butler, after which I entered the catering business and continued until about twelve years ago. In my career I have had the opportunity to come in contact with the best white people and the most cultured class in Maryland and those visiting Baltimore. This class is about gone, now we have a new group, lacking the refinement, the culture and taste of those that have gone by."[8]
 
-African American caterers prospered near Mount Vernon following the Civil War included:
+Other African American caterers also prospered near Mount Vernon following the Civil War.
 
-James W. Hughes (1849-1921), 12 E. Centre Street
+**James W. Hughes** (1849-1921), 12 E. Centre Street:
 
 - "Coming to this city at age 18 , two years after the close of civil war, and hampered as he was by the lack of common schooling, which every boy today enjoys, he entered business, and by sheer merit and persistence achieved success. His work made him friends as well as customers, who heralded abroad the fame of his culinary skill."[9]
 - President of the YMCA, long-time treasurer for St. James, contributor to the NAACP
 - Established Hughes Catering Company, 1884 at 524 St. Paul Street, moved to 12 E. Centre Street ca1905
 
-Benjamin Simms and daughter Mrs. Emma Simmes, 1045 Cathedral Street
+**Benjamin Simms** and daughter **Mrs. Emma Simmes**, 1045 Cathedral Street
 
 - Born in Annapolis ca, Benjamin Simms came to Baltimore in employ of Lennox Birckhead
 
 Job opportunities for free blacks changed before and after the Civil War:
 
-- In 1850s, competition from whites and violence against blacks in skilled trades - like caulking - forced free and, by 1860s, emancipated blacks into less skilled trades including the service industry.
+- **1850s**: competition from whites and violence against blacks in skilled trades - like caulking - forced free and, by 1860s, emancipated blacks into less skilled trades including the service industry.
 - Catering declined in late 19th early 20th century, changing dining preferences, alcohol with need for permits, bonds.
 
 
@@ -197,18 +206,18 @@ R. Snowden Andrews, later a founding member of AIA Baltimore, fought for the Con
 ## Decatur Miller House (1853) - 700 Cathedral Street
 Designed by Niernsee & Neilson
 
-In 1860, Decatur Miller held two female slaves, real estate valued at $25,000, personal estate at $10,000. General property tax records notes his furniture, plates and slaves valued at $5,720.[12] (Clayton)
+In **1860**, Decatur Miller held two female slaves, real estate valued at $25,000, personal estate at $10,000. General property tax records notes his furniture, plates and slaves valued at $5,720.[12] (Clayton)
 
-In February 1853, Decatur Miller's new house-headlined as a "magnificent residence"-had "advanced to completion." In his early thirties at the time of the house's construction, Decatur Miller and his wife Eliza had clearly "arrived." ...
+In February **1853**, Decatur Miller's new house-headlined as a "magnificent residence"-had "advanced to completion." In his early thirties at the time of the house's construction, Decatur Miller and his wife Eliza had clearly "arrived." ...
 
-- In 1850, his profession was listed as a "commercial tobacco merchant;" by 1860, he rose to the somewhat vague, but clearly privileged status of "gentleman."
+- In **1850**, his profession was listed as a "commercial tobacco merchant;" by 1860, he rose to the somewhat vague, but clearly privileged status of "gentleman."
 - From F. Winkleman, recorded as digging and lining the privy for $52.00, to J. W. & H. T. Gernhard, who sold Miller a stained glass skylight for $115.00, to O. Bouldmg, responsible for surveying the lot, no fewer than thirty-six individuals and firms were involved in either supplying materials or aspects of the house's planning and construction. To have the plans for his four-story house brought to fruition, Decatur Miller-like his other class contemporaries-and architects Niernsee & Neilson needed a variety of skilled and unskilled laborers, both for general construction requirements as well as those more specific to elite mid-nineteenth-century construction.[13]
 
 Where did servants and enslaved people live and work in these houses?
 
 - Wealthy households like the Millers required the employment of relatively large numbers of servants and, accordingly, their houses contained a number of service spaces necessary for executing various domestic tasks. In addition to the public and semipublic spaces positioned forward on the ground floor, that level also included a housekeeper's room, pantry, storeroom, kitchen, "and other conveniences," with cellars, ostensibly for storage, located below.
-- The 1850 Baltimore City census schedules noted a twenty-six year old woman, Kate M. Kamfer, resident in the Miller household. While the occupation of this woman, born in Germany, is not known, she was undoubtedly a servant of some sort, given the patterns of census information as well as the affluence of the Millers. By this time the Millers had two young children, and Kamfer may have been their nurse.
-- The 1860 schedules also only included a single servant, twenty-six year old Bessie Kelly, who was born in Ireland and nurse to the Miller's four children.
+- The **1850** Baltimore City census schedules noted a twenty-six year old woman, Kate M. Kamfer, resident in the Miller household. While the occupation of this woman, born in Germany, is not known, she was undoubtedly a servant of some sort, given the patterns of census information as well as the affluence of the Millers. By this time the Millers had two young children, and Kamfer may have been their nurse.
+- The **1860** schedules also only included a single servant, twenty-six year old Bessie Kelly, who was born in Ireland and nurse to the Miller's four children.
 
 ## Christian Science Building - 702 Cathedral Street (1847)
 
@@ -317,23 +326,27 @@ Take in the view of:
 
 ## Mt. Vernon United Methodist Church
 
-Methodism had an early association with abolitionism
+Methodism had an early association with abolitionism.
 
-- One of the first major white religious voices against slavery, Asbury petitioned George Washington to enact anti-slavery legislation. Francis Ashbury presented an anti-slavery petition from Methodist bishops to George Washington. Wrote in his journal:
-- December 19, 1796: "My spirit was grieved at the conduct of some Methodists, that hire slaves at public places to the highest bidder, to cut skin, and starve them; I think such members ought to be dealt with: on the side of oppressors there are law and power, but where are justice and mercy to the poor slaves? what eye will pity, what hand will help, or ear listen to their distresses? I will try if words can be like drawn sword, to pierce the hearts of the owners."
-- Sharp Street Church established with help of Methodist Abolitionists, Bethel AME
+One of the first major white religious voices against slavery, Francis Ashbury presented an anti-slavery petition from Methodist bishops to George Washington. On **December 19, 1796**, Asbury wrote in his journal:
+
+> "My spirit was grieved at the conduct of some Methodists, that hire slaves at public places to the highest bidder, to cut skin, and starve them; I think such members ought to be dealt with: on the side of oppressors there are law and power, but where are justice and mercy to the poor slaves? what eye will pity, what hand will help, or ear listen to their distresses? I will try if words can be like drawn sword, to pierce the hearts of the owners."
+
+Sharp Street Church established with help of Methodist Abolitionists
 
 # East Square
 
-- Reporting in 1848, the Baltimore Sun bragged on how houses, "little short of regal palaces in point of splendor are springing into existence like magic," and in the "immediate neighborhood of the Washington Monument" … "beautiful abodes of wealth and luxury" could be found in great number. (Architecture of Baltimore)
+Reporting in **1848**, the Baltimore Sun bragged on how houses, "little short of regal palaces in point of splendor are springing into existence like magic," and in the "immediate neighborhood of the Washington Monument" … "beautiful abodes of wealth and luxury" could be found in great number.
+
+Source: Architecture of Baltimore
 
 ## Branch Alley
 
-Look at the 3-story back building, carriage house and stable
+_Look at the 3-story back building, carriage house and stable_
 
 **Escape to Baltimore**: Richard Mason of Charles County advertised for his "escaped man,"" Phil Carter, observing:
 
->"it is very possible that he is gone to Baltimore, as his father is living there on Howard's hill, and is a dray man, his name is James Carter."
+> "it is very possible that he is gone to Baltimore, as his father is living there on Howard's hill, and is a dray man, his name is James Carter."
 
 - Alleys inevitably narrow - no more than 12' wide by city codes - and became home to dense communities of both enslaved and free blacks
 - Legislation passed in 1819 set a maximum term of six years in the penitentiary in Baltimore for any free person White or Black, who "enticed, persuaded, or assisted," or knowingly harbored, any runaway slave.
@@ -347,7 +360,7 @@ Segregation developed around limited employment opportunities
 
 In 1855, Frederick Douglass wrote on Baltimore from New York:
 
->"Every hour sees the black man elbowed out of the employment by some newly arrived emigrant whose hunger and color are thought to give him a better title to the place."
+> "Every hour sees the black man elbowed out of the employment by some newly arrived emigrant whose hunger and color are thought to give him a better title to the place."
 
 ## Richard E. France House - 12 E. Mt. Vernon Place
 Richard France (F., Broadbents & Co.) - residence 1860 directory as 50 Mt. Vernon Place, into lottery business, lost everything built Brownstone row next door
@@ -422,12 +435,11 @@ Democratic reaction against black Republican politics
 ## Clarke Residence?
 Mrs. Maria Clarke, owned one female slave (1860), lived with Mrs. William B. Clarke at 40 Mt. Vernon Place (Martha M. Clark owned another female slave)
 
-----
+---- 
 
-[1] [](https://www.google.com/url?q=http://rmc.library.cornell.edu/lafayette/exhibition/english/abolitionist/&sa=D&usg=AFQjCNFFHGO0FhZdvrDCIrW3PQQOPUJaSg)[http://rmc.library.cornell.edu/lafayette/exhibition/english/abolitionist/](https://www.google.com/url?q=http://rmc.library.cornell.edu/lafayette/exhibition/english/abolitionist/&sa=D&usg=AFQjCNFFHGO0FhZdvrDCIrW3PQQOPUJaSg)
 [2] [](https://www.google.com/url?q=http://www.mountvernon.org/slavery&sa=D&usg=AFQjCNER8c7EUzaAB9PDEn7mDTyZPhmEug)[http://www.mountvernon.org/slavery](https://www.google.com/url?q=http://www.mountvernon.org/slavery&sa=D&usg=AFQjCNER8c7EUzaAB9PDEn7mDTyZPhmEug)
 [3] Phillips, 15
-[4] [](https://www.google.com/url?q=http://anacostia.si.edu/exhibits/online_exhibitions/food/etiquette.htm&sa=D&usg=AFQjCNGh-97FVjLHAeYws6pxLs27gC2KkA)[http://anacostia.si.edu/exhibits/online\_exhibitions/food/etiquette.htm](https://www.google.com/url?q=http://anacostia.si.edu/exhibits/online_exhibitions/food/etiquette.htm&sa=D&usg=AFQjCNGh-97FVjLHAeYws6pxLs27gC2KkA)
+[4] [](https://www.google.com/url?q=http://anacostia.si.edu/exhibits/online\_exhibitions/food/etiquette.htm&sa=D&usg=AFQjCNGh-97FVjLHAeYws6pxLs27gC2KkA)[http://anacostia.si.edu/exhibits/online\_exhibitions/food/etiquette.htm](https://www.google.com/url?q=http://anacostia.si.edu/exhibits/online_exhibitions/food/etiquette.htm&sa=D&usg=AFQjCNGh-97FVjLHAeYws6pxLs27gC2KkA)
 [5] [](https://www.google.com/url?q=http://msa.maryland.gov/megafile/msa/speccol/sc5400/sc5496/024200/024297/html/024297bio.html&sa=D&usg=AFQjCNF5dbwnOAgwe2J-SSxG0sn0FiAwFg)[http://msa.maryland.gov/megafile/msa/speccol/sc5400/sc5496/024200/024297/html/024297bio.html](https://www.google.com/url?q=http://msa.maryland.gov/megafile/msa/speccol/sc5400/sc5496/024200/024297/html/024297bio.html&sa=D&usg=AFQjCNF5dbwnOAgwe2J-SSxG0sn0FiAwFg)
 [6] [](https://www.google.com/url?q=http://www.crockerfarm.com/maryland-auction/2011-09-17/lot-286/Important-Handwritten-Letter-by-Sibby-Grant-Slave-to-Her-Owner-John-Hanson-Thomas-Confederate-POW/&sa=D&usg=AFQjCNHUZhiyfn4-dKQB467rtBBwDlKzDQ)[http://www.crockerfarm.com/maryland-auction/2011-09-17/lot-286/Important-Handwritten-Letter-by-Sibby-Grant-Slave-to-Her-Owner-John-Hanson-Thomas-Confederate-POW/](https://www.google.com/url?q=http://www.crockerfarm.com/maryland-auction/2011-09-17/lot-286/Important-Handwritten-Letter-by-Sibby-Grant-Slave-to-Her-Owner-John-Hanson-Thomas-Confederate-POW/&sa=D&usg=AFQjCNHUZhiyfn4-dKQB467rtBBwDlKzDQ)
 [7] [](https://www.google.com/url?q=http://ead.lib.virginia.edu/vivaxtf/view?docId%3Dvt/viblbv01197.xml&sa=D&usg=AFQjCNE93h5ZJeHyxVtgfgCBQ8RRCMC1tg)[http://ead.lib.virginia.edu/vivaxtf/view?docId=vt/viblbv01197.xml](https://www.google.com/url?q=http://ead.lib.virginia.edu/vivaxtf/view?docId%3Dvt/viblbv01197.xml&sa=D&usg=AFQjCNE93h5ZJeHyxVtgfgCBQ8RRCMC1tg)
@@ -445,8 +457,8 @@ pg. 7
 [15] http://books.google.com/books?id=A0YZAAAAYAAJ&dq=they%20were%20worthy%20of%20freedom%20and%20knew%20how%20to%20use%20it%20taney&pg=RA3-PA37#v=onepage&q=they%20were%20worthy%20of%20freedom%20and%20knew%20how%20to%20use%20it%20taney&f=false
 [16] http://books.google.com/books?id=a48rAQAAIAAJ&dq=they%20were%20worthy%20of%20freedom%20and%20knew%20how%20to%20use%20it%20taney&pg=PA125#v=snippet&q=slave&f=false
 [17] http://articles.baltimoresun.com/2007-03-06/news/0703060199\_1\_dred-scott-scott-case-chief-justice-taney
-[18] [](https://www.google.com/url?q=http://www.nga.org/cms/home/governors/past-governors-bios/page_maryland/col2-content/main-content-list/title_howard_john.html&sa=D&usg=AFQjCNHSXquQutoU290uwaD6dmCUJHX1eg)[http://www.nga.org/cms/home/governors/past-governors-bios/page\_maryland/col2-content/main-content-list/title\_howard\_john.html](https://www.google.com/url?q=http://www.nga.org/cms/home/governors/past-governors-bios/page_maryland/col2-content/main-content-list/title_howard_john.html&sa=D&usg=AFQjCNHSXquQutoU290uwaD6dmCUJHX1eg)
+[18] [](https://www.google.com/url?q=http://www.nga.org/cms/home/governors/past-governors-bios/page\_maryland/col2-content/main-content-list/title\_howard\_john.html&sa=D&usg=AFQjCNHSXquQutoU290uwaD6dmCUJHX1eg)[http://www.nga.org/cms/home/governors/past-governors-bios/page\_maryland/col2-content/main-content-list/title\_howard\_john.html](https://www.google.com/url?q=http://www.nga.org/cms/home/governors/past-governors-bios/page_maryland/col2-content/main-content-list/title_howard_john.html&sa=D&usg=AFQjCNHSXquQutoU290uwaD6dmCUJHX1eg)
 [19] http://books.google.com/books?id=H4\_Dy95oqesC&lpg=PA197&dq=Col.%20Charles%20Carroll%20of%20Doughoregan%20Manor&pg=PA197#v=onepage&q=Col.%20Charles%20Carroll%20of%20Doughoregan%20Manor&f=false
-[20] [](https://www.google.com/url?q=https://archive.org/stream/woodsbaltimoreci1860balt%23page/70/mode/2up/search/mt.%2Bvernon%2Bpl&sa=D&usg=AFQjCNH7hdn6_IW-HI1LXA00X1e7H9ICoA)[https://archive.org/stream/woodsbaltimoreci1860balt#page/70/mode/2up/search/mt.+vernon+pl](https://www.google.com/url?q=https://archive.org/stream/woodsbaltimoreci1860balt%23page/70/mode/2up/search/mt.%2Bvernon%2Bpl&sa=D&usg=AFQjCNH7hdn6_IW-HI1LXA00X1e7H9ICoA)
+[20] [](https://www.google.com/url?q=https://archive.org/stream/woodsbaltimoreci1860balt%23page/70/mode/2up/search/mt.%2Bvernon%2Bpl&sa=D&usg=AFQjCNH7hdn6\_IW-HI1LXA00X1e7H9ICoA)[https://archive.org/stream/woodsbaltimoreci1860balt#page/70/mode/2up/search/mt.+vernon+pl](https://www.google.com/url?q=https://archive.org/stream/woodsbaltimoreci1860balt%23page/70/mode/2up/search/mt.%2Bvernon%2Bpl&sa=D&usg=AFQjCNH7hdn6_IW-HI1LXA00X1e7H9ICoA)
 [21] [](https://www.google.com/url?q=http://msa.maryland.gov/msa/speccol/photos/philanthropy/html/peabody.htm&sa=D&usg=AFQjCNHxP6J86vNwqWq4FW6xm2dBdWlXcg)[http://msa.maryland.gov/msa/speccol/photos/philanthropy/html/peabody.htm](https://www.google.com/url?q=http://msa.maryland.gov/msa/speccol/photos/philanthropy/html/peabody.htm&sa=D&usg=AFQjCNHxP6J86vNwqWq4FW6xm2dBdWlXcg)
 [22] http://msa.maryland.gov/dtroy/project/story.html

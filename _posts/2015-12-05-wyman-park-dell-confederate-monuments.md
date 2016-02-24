@@ -116,7 +116,7 @@ Sources[Monument City Blog](http://monumentcity.net/2009/03/29/johns-hopkins-mon
 
 - Creator: J. Maxwell Miller
 - Location: N. Charles and University Parkway
-  
+	  
 The sculpture was created by J. Maxwell Miller, a Baltimorean, who taught at the Maryland Institute College of Art, and eventually became the director of the Rinehart School (also sculptor of the Star-Spangled Banner Centennial Monument). The sculpture depicts a dying soldier being cradled by his mother in the foreground. Behind this pair stands a woman looking off into the distance, who typifies the "devoted women of the Confederacy". The dying soldier and his mother is a pieta, a traditional Christian sculptural subject that depicts Christ dying in the arms of his mother Mary after his crucifixion. 
 
 The erection of the monument was part of a larger movement spearheaded by Confederate veterans beginning in 1906 to place a monument to honor the sacrifices of Confederate women in the capital of each of the thirteen Southern states. The original plan was for the states to erect a replica of the Confederate Women's monument located in Richmond, Virginia. However, by 1910, the Maryland Chapter of the Daughters of the Confederacy decided to have their own design for the monument.  
@@ -316,4 +316,4 @@ In a speech in Washington, DC delivered in 1889, Douglass likely spoke for many 
 
 > Well the nation may forget, it may shut its eyes to the past, and frown upon any who may do otherwise, but the colored people of this country are bound to keep the past in lively memory till justice shall be done them.
 
-Source: [October 29, 2015 Testimony](https://github.com/baltimoreheritage/issues/blob/master/confederate-monuments/2015-10-29-special-commission-testimony.md)
+See also: [October 29, 2015 Testimony](https://github.com/baltimoreheritage/issues/blob/master/confederate-monuments/2015-10-29-special-commission-testimony.md)
