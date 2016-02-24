@@ -3,6 +3,7 @@ layout: post
 title: "Vacant Houses by Bike: Salvage, Demolish or Preserve?"
 summary: "A bike ride highlighting the history of vacant housing in Baltimore. How should this history of vacant and abandoned housing inform Baltimore's debates over demolition and preservation?"
 categories: bike
+date: 2015-08-09
 ---
 
 # Introduction

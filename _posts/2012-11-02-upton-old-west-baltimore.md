@@ -2,6 +2,7 @@
 layout: post
 title: "Upton and Old West Baltimore"
 summary: "A walk around the Upton neighborhood focused on the history of race and place in Old West Baltimore."
+date: 2012-11-02
 ---
 
 _This tour is based on a 2010 walking tour program developed in partnership with Dr. David Terry and substantially revised on November 2, 2012. These are older tour notes and are missing sources._
