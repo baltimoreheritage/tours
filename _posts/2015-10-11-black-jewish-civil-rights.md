@@ -44,7 +44,7 @@ Built for $200,000, the **Suburban Club** required substantial dues and that mem
 Source: [Dumbarton Historic District National Register Nomination](http://msa.maryland.gov/megafile/msa/stagsere/se1/se5/030100/030107/pdf/msa_se5_30107.pdf)
 
 ## 2.2: How did African Americans see Jews? How did Jews see African Americans?
-Sources: [Source](https://books.google.com/books?id=BBzbA3HwmbkC&lpg=PA841&dq=black%20jewish%20baltimore%20jazz&pg=PA446#v=onepage&q=baltimore&f=false); [NYT, 1998](http://www.nytimes.com/1988/11/30/us/jews-and-blacks-recall-the-decades-of-partnership.html)_
+Sources: [Source](https://books.google.com/books?id=BBzbA3HwmbkC&lpg=PA841&dq=black%20jewish%20baltimore%20jazz&pg=PA446#v=onepage&q=baltimore&f=false); [NYT, 1998](http://www.nytimes.com/1988/11/30/us/jews-and-blacks-recall-the-decades-of-partnership.html)
 
 - **1860s**: **Dr. David Einhorn**, Baltimore rabbi, preached abolitionism in pro-slavery Baltimore, made his journal _Sinai_ an organ for the movement, left Baltimore for Philadelphia to avoid mob violence
 - **1900**: Before WWI, Baltimore had proportionally the largest Jewish population of any Southern city; larger black population than any northern city
@@ -138,6 +138,8 @@ The Jazz Singer premiere, "Jazz Indebted to the Jews"
 - In HS went to Park Heights, became a song-writer, go around to all the black clubs to try to sell her songs, hooked up with **The Orioles** - her song is a smash hit, she became their manager
 - It’s too soon to know, 1948 (landmark Rhythm )
 
+See also[Baltimore Sun article on Shirley Reingold](http://articles.baltimoresun.com/2012-10-18/news/bs-md-ob-shirley-reingold-20121018_1_vocal-group-ink-spots-mills-brothers)
+
 **Gerry Lieber (Baltimore) and Mike Stoller (NYC)** (from Baltimore) and Mike Stoller (from NYC)
 - Gerry grew up in a black neighborhood, lived about his family store
 - His mother owned a store, delivered goods would hear black music on the radios of homes where he made deliveries, moved to California, wrote you ain’t nothing but a hound dog, first a hit for black music before, stand by me with Ben King
@@ -151,7 +153,7 @@ Long-time home of Juanita Carroll Jackson and Clarence Mitchell Sr. Building was
 - **1942**: Moved to Druid Hill rowhouse, the same year Clarence starts working at the **FEPC**. Went on to raise five sons and live at the house until the end of their lives, visitors included Paul Robeson, Duke Ellington, Marian Anderson, Eleanor Roosevelt
 - **1956**: "From time we were kids we were recruited for mass meetings, for handing out fliers. In 1956 my parents were hosting Hungarian freedom fighters" and fed them tuna sandwiches.
 - **1960**: Michael Mitchell picks up phone / "This is John Kennedy. Is your father home?" / “He's at work.” / “Is your mother there?” / She's in the bathroom." / Olesker: “Young Michael never heard the end of that one."
-- **2013**: Michael Olesker interviewed Dr. Kieffer Mitchell:  what his parents would have thought of the condition of their former home: “My parents wouldn't have cared about that. They didn't care about bricks and mortar. My parents were revolutionaries."
+- **2013**: Michael Olesker interviewed Dr. Kieffer Mitchell about what his parents would have thought of the condition of their former home: “My parents wouldn't have cared about that. They didn't care about bricks and mortar. My parents were revolutionaries."
 
 _Source: “Front Stoops in the 50’s” (2013), Michael Olesker._
 
@@ -179,7 +181,7 @@ Rev. Dr. Martin Luther King, Jr. in  Letter from a Birmingham Jail (1963) echoes
 
 > Clarence and I were in the gallery and Byrd suddenly gestured to us as he spoke from the Senate floor and said: 'There they are. The Golddust Twins,' '' he recalled. ''It was the happiest moment of my life.'' —[NYT, 1988](http://www.nytimes.com/1988/11/30/us/jews-and-blacks-recall-the-decades-of-partnership.html)
 
-[The Gold Dust Twins](https://en.wikipedia.org/wiki/Gold_Dust_Twins)
+See Wikipedia on [The Gold Dust Twins](https://en.wikipedia.org/wiki/Gold_Dust_Twins)
 
 **1900**: the twins had been transformed into a cartoonish pair of caricature, bald, asexual black children shown wearing tutus emblazoned with the words "Gold" and "Dust".
 **1929**: “The Gold Dust Twins” radio program first broadcast nationally; starred Harvey Hindemeyer and Earle Tuckerman as "Goldy" and "Dusty", respectively, sponsored by Lever Brothers and Gold Dust Washing Powder.
@@ -241,7 +243,7 @@ _1901 Madison Avenue_
 - **1975**: President Ford appointed Saltzman to the U.S. Commission on Civil Rights. In 1983, President Reagan fired Saltzman and two other commission members for criticizing his administration’s policies.
 - **1978**: Salesman moves from Indianapolis to Baltimore to become rabbi at Baltimore Hebrew Congregation. Later served as President of the Coalition Opposed to Violence and Extremism and the Black-Jewish Forum of Baltimore.[^5]
 
-### Har Sinai (Site)** — Bolton Street
+### Har Sinai (Site)\*\* — Bolton Street
 
 - **1840s**: Founding members include Abram Hutzler
 - **1894**: Har Sinai moves to Mount Royal
@@ -253,14 +255,19 @@ _1901 Madison Avenue_
 
 ### Lillie Mae Carroll Jackson House —1320 Eutaw Place
 
-From 1935 until her retirement in 1970, **Lillie Mae Carroll Jackson** was president of the Baltimore chapter of the NAACP and for much of this time her home on Eutaw Place was a hub of civil rights organizing and activism. Jackson, known as the mother of the civil rights movement, rose to become a national leader in the movement: she sponsored the “Buy Where You Can Work” campaign to promote integrated businesses and boycott segregated ones (1931); she launched Baltimore’s NAACP branch (1935); she began a movement to register black voters and shift in city politics (1942); and she was central to Baltimore’s integration after the landmark Brown v. Board of Education decision (1954).
+From 1935 until her retirement in 1970, **Lillie Mae Carroll Jackson** was president of the Baltimore chapter of the NAACP and for much of this time her home on Eutaw Place was a hub of civil rights organizing and activism. Jackson, known as the mother of the civil rights movement, rose to become a national leader in the movement:
+
+- **1931**: sponsored the “Buy Where You Can Work” campaign to promote integrated businesses and boycott segregated ones
+- **1935**: Revived Baltimore’s NAACP branch
+- **1942**: Began a movement to register black voters and shift in city politics
+- **1954**: Central to Baltimore’s integration after the landmark Brown v. Board of Education decision
 
 ### Isidor Rayner Residence (Site) — 1412 Eutaw Place
 
 - **1903-1909**: During Maryland’s disenfranchisement campaign, Isador Rayner and Isaac L. Strauss (leading Jewish Democrats) become two of the most vocal champions.
 
 > ”Messrs Isaac Lobe Strauss and Isador Rayner scarcely ever speak at a meeting that they do not have a word to say against the despised Negro. They out Herod Herod in stirring up race prejudice against the Negro."
-> —_Afro-American [Source](https://books.google.com/books?id=BBzbA3HwmbkC&lpg=PA841&dq=black%20jewish%20baltimore%20jazz&pg=PA241#v=onepage&q=baltimore&f=false)
+> —\_Afro-American [Source](https://books.google.com/books?id=BBzbA3HwmbkC&lpg=PA841&dq=black%20jewish%20baltimore%20jazz&pg=PA241#v=onepage&q=baltimore&f=false)
 
 ## 4.7: Walter Sondheim Residence
 _1621 Bolton Street_
@@ -280,7 +287,7 @@ Sondheim on the success of urban renewal:
 
 _See also:_
 
-- **Albert D. Hutzler Residence**—1801 Eutaw Place_
+- **Albert D. Hutzler Residence**— 1801 Eutaw Place
 
 # 5: Reservoir Hill
 
@@ -294,9 +301,9 @@ Source: [Bolton Park Neighbors](http://boltonparkneighbors.com/boltonpark/histor
 
 ## 5.3: The Emersonian (1912) & The Esplanade (1915)
 
-**The Esplanade & The Emersonian
+In his later years, **Albert Hutzler** lived at the **Esplanade**; **Max Hoschild**, owner/president of the Hoschild-Kohn Department Store that stood next to Hutzler’s store on Howard Street, lived at the **Emersonian**. 
 
-In his later years, **Albert Hutzler** lived at the **Esplanade**; **Max Hoschild**, owner/president of the Hoschild-Kohn Department Store that stood next to Hutzler’s store on Howard Street, lived at the **Emersonian**. **Hoschild-Kohn's** was established as a partnership between Max, Benno Kohn and his brother Louis B. Kohn. Max Hoschild died June 1, 1957 at age 102 lived in the Emersonian Apartments, kept an office at the downtown store from his retirement up through shortly before 1957
+**Hoschild-Kohn's** was established as a partnership between Max, Benno Kohn and his brother Louis B. Kohn. Max Hoschild died June 1, 1957 at age 102 lived in the Emersonian Apartments, kept an office at the downtown store from his retirement up through shortly before 1957
 
 ** Civil Rights and Jewish-owned Department Stores**
 
@@ -328,6 +335,7 @@ From 1910 to 1940, more than 2,000 primary and secondary schools and twenty blac
 The Civil Rights Act of 1964 and the Voting Rights Act of 1965 were drafted in the conference room of Religious Action Center of Reform Judaism, under the aegis of the Leadership Conference, which for decades was located in the RAC's building. The Jewish community has continued its support of civil rights laws addressing persistent discrimination in voting, housing and employment against not only women and people of color but also in the gay, lesbian, bisexual and transgender community and the disabled community.
 
 Baltimore was the only city at the beginning of the 20th century that had large Jewish and black populations in the whole country; the only place that both groups made up a substantial portion of the congregation, affected how they interacted with each other. NYC and Philadelphia still just 1-2% before WWI; not absolutely
+
 Immigrant port – no other Southern cities had large Jewish populations
 Baltimore was 15% black those other cities, 8% Jewish,
 
@@ -344,19 +352,10 @@ Sharp Street Church, Lillie Mae Jackson responded with the department store thin
 - They wouldn’t throw a rock but they would leave
 
 - Chizuk Amuno — Friedenwald family, Antero Pietella book, Marbury asked Friedenwald to support keeping blacks out of the neighborhood. Beth Am now carrying on that tradition
-- Whitelock Street destination for German Jewish refugees, around 3,000 before Germmany and Austria settled there because they went to Chizuk Amuno, traditional for Germans, how of German Orthodoxy, didn’t relate to Eastern European
+- Whitelock Street destination for German Jewish refugees, around 3,000 before Germany and Austria settled there because they went to Chizuk Amuno, traditional for Germans, how of German Orthodoxy, didn’t relate to Eastern European
 - Baltimore was the only city at the beginning of the 20th century that had large Jewish and black populations in the whole country; the only place that both groups made up a substantial portion of the congregation, affected how they interacted with each other. NYC and Philadelphia still just 1-2% before WWI; not absolutely
 - Immigrant port – no other Southern cities had large Jewish populations
-- Baltimore was 15% black those other cities, 8% Jewish,
-
-The Price of Whiteness
-
-Gerry Lieber (from Baltimore) and Mike Stoller (from NYC)
--	Gerry grew up in a black neighborhood, lived about his family store
--	His mother owned a store, delivered goods would hear black music on the radios of homes where he made deliveries, moved to California, wrote you ain’t nothing but a hound dog, first a hit for black music before, stand by me with Ben King
-- Lieber's life was all about growing up in a black neighborhood
-
-- [Baltimore Sun article on Shirley Reingold](http://articles.baltimoresun.com/2012-10-18/news/bs-md-ob-shirley-reingold-20121018_1_vocal-group-ink-spots-mills-brothers)
+- Baltimore was 15% black those other cities, 8% Jewish
 
 ## Additional Links
 
@@ -375,7 +374,7 @@ Gerry Lieber (from Baltimore) and Mike Stoller (from NYC)
 
 [^3]:	Grand Lodge - http://www.mwphglmd.com/Grand-Lodge-History.html
 
-[^4]:	Baltimore Sun - http://articles.baltimoresun.com/2005-01-08/news/0501080199\_1\_daniels-prince-hall-civil-rights-movement
+[^4]:	[Baltimore Sun](http://articles.baltimoresun.com/2005-01-08/news/0501080199_1_daniels-prince-hall-civil-rights-movement)
 
 [^5]:	NYT, 1998
 

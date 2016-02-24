@@ -4,7 +4,7 @@ title: About Baltimore Heritage Tours
 permalink: /about/
 ---
 
-This site is a collection of tour notes, maps and related materials created for use by Baltimore Heritage staff and volunteers. All of these materials are working documents that may be modified or removed at any time. Our tour notes include a mix of original research and excerpts from secondary and tertiary sources. Typical sources for tour notes include related newspaper articles, scholarly publications, and Wikipedia.
+This site is a collection of tour notes, maps and related materials created for use by Baltimore Heritage staff and volunteers. All of these materials are working documents that may be modified or removed at any time. Our tour notes include a mix of original research and excerpts from secondary and tertiary sources. Typical sources for tour notes include related newspaper articles, scholarly publications, and Wikipedia. Please contact us with any questions or to share any corrections or suggestions for these notes.
 
 Our guided tour programs currently include:
 

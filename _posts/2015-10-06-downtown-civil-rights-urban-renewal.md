@@ -2,7 +2,6 @@
 layout: post
 title: "Downtown Baltimore – Civil Rights and Urban Renewal"
 summary: "A walk around downtown Baltimore exploring the history of race, Civil Rights and changing ideas about urban renewal from the 1950s up to the present."
-date:       2015-10-16
 ---
 
 This tour was most recently modified on 2015 October 6 based on a series of tours of Downtown's West Side developed in 2011.
@@ -15,7 +14,7 @@ This tour was most recently modified on 2015 October 6 based on a series of tour
 
 ## Preston Gardens – St. Paul Street
 
-_See the main [Preston Gardens article](http://elipousson.github.io/preston-gardens/) for more information._
+_See the [Preston Gardens study](baltimoreheritage.github.io/baltimore-civil-rights-heritage/places/preston-gardens) for more information._
 
 ## Charles Center
 
@@ -30,7 +29,6 @@ Thomas D'Alesandro died in 1987:
 > As mayor from 1947 to 1959, D'Alesandro presided over a period of vast physical improvements in Baltimore. An airport was opened outside the city during his tenure, and major league baseball returned to Baltimore.
 > In 1958, he won voter approval for the financing of the Charles Center urban renewal project, launching the rejuvenation that remade much of the heart of his beloved city. [Source.](http://articles.latimes.com/1987-08-29/news/mn-1349_1_thomas-d-alesandro-jr)
 
-
 ### About Charles Center
 
 - **1954 **: Committee for Downtown organized to promote a 1000-acre master plan for stopping the commercial decline of downtown/central Baltimore.
@@ -38,16 +36,17 @@ Thomas D'Alesandro died in 1987:
 
 **David Wallace:** In Philadelphia, PA in 1953, under Mayor Joseph S. Clark, David Wallace led a citywide urban redevelopment evaluation that resulted in the Central Urban Renewal Area (CURA) Report. The report established a new strategy for overall redevelopment that targeted catalytic actions to strengthen communities and downtown. CURA became a model for Baltimore, MD.
 
-- **March 1958:** Presented a plan to Mayor & City Council calling for office buildings, commercial space, hotels, a theatre, underground parking, etc. Unusual in for incorporating existing structures (not a "clean-slate" design), across a 33 acre site.  Includes three public plazas designed by [RTKL](http://en.wikipedia.org/wiki/RTKL "RTKL"), connected by walkways and pedestrian bridges. Plan formed the basis of a $25 million bond issue that year. Eventually spent $40 million public funding, $145 million private investment.
+- **March 1958:** Presented a plan to Mayor & City Council calling for office buildings, commercial space, hotels, a theatre, underground parking, etc. Unusual in for incorporating existing structures (not a "clean-slate" design), across a 33 acre site. Includes three public plazas designed by [RTKL](http://en.wikipedia.org/wiki/RTKL "RTKL"), connected by walkways and pedestrian bridges. Plan formed the basis of a $25 million bond issue that year. Eventually spent $40 million public funding, $145 million private investment.
 - GBC established an **Architectural Review Board **: Deans from three of the most prominent architectural schools in the U.S. (Harvard, MIT and University of Pennsylvania) who judged the plans for each parcel of land before development.
 
-Public benefits: _increase in employment_ help the city's economy; _increase in tax base_ will mean more city resources to meet the needs of the poor. Property development scheme of direct benefit to coporate and finance capital: new downtown employment in skilled or high-paying jobs went to suburban residents, jobs created for city residents are temporary construction or low-paying service sector.[^1]
+Public benefits: _increase in employment_ help the city's economy; _increase in tax base_ will mean more city resources to meet the needs of the poor. Property development scheme of direct benefit to corporate and finance capital: new downtown employment in skilled or high-paying jobs went to suburban residents, jobs created for city residents are temporary construction or low-paying service sector.[^1]
 
 Declaring Charles Center the "New Heart of Baltimore," Jane Jacobs called the project an:
 
 > …attempt to stimulate a rebuilding use which is at fundamental odds with previous use or the surroundings of the project. The site is in the very heart of downtown, not on its fringes, and it is to be re-used for precisely the things that belong in the heart of downtown.
 
-**September 1970:** First City Fair staged at Charles Center
+**September 1970:** First City Fair staged at Charles Center:
+
 > A pall hung over many city leaders when several of them, including housing commissioner Robert Embry, suggested a city fair at its new Charles Center to celebrate its neighborhoods, ethnic customs, talents and institutional strength.  On the eve of the first fair, fearing that it would set up a riot-prone situation and under pressure from conservatives, D'Alesandro almost canceled it.  However, the fair was held and became an annual event, drawing over a million visitors. 
 
 ## Charles Plaza & Center Plaza (1958, 2007)
@@ -55,7 +54,10 @@ Declaring Charles Center the "New Heart of Baltimore," Jane Jacobs called the pr
 The 1958 Charles Center promotional report stated:
 > “Here, open space will be used, loved and economically successful because it will be full of pleasant things: fountains, sculpture, flowers, umbrellas, flags, and trees. The open space will be, in its own way, as concentrated as the city around it.”
 
-George Kostritsky of RTKL envisioned an urban landscape of light, sculpture, and water for Charles, Center, and Hopkins plazas. These three plazas, located on the interior of the two superblocks, were to be linked through a series of elevated walkways, escalators and skywalks in order to overcome the problem of the site’s steep topography (a 68-foot drop in grade from the northern boundary of the site to the southern boundary) and to create a series of “pedestrian islands.” Though futuristic in appearance, this circulation system was a typical component of urban design of the 1950s and 60s and was often promoted as a means of separating pedestrians from the automobile traffic. At Charles Center, the exterior circulation system was also intended to provide a venue for extensive retail activity.[^2]
+- Three plazas, located on the interior of the two superblocks, linked through a series of elevated walkways, escalators and skywalks in order to overcome the problem of the site’s steep topography (a 68-foot drop in grade from the northern boundary of the site to the southern boundary)
+- Create a series of “pedestrian islands.” 
+- Envisioned as a landscape of light, sculpture, and water by George Kostritsky of RTKL
+- Circulation system was a typical component of urban design of the 1950s and 60; often promoted as a means of separating pedestrians from the automobile traffic. At Charles Center, the exterior circulation system was also intended to provide a venue for extensive retail activity.[^2]
 
 ### One Charles Center (1962)
 
@@ -69,22 +71,23 @@ George Kostritsky of RTKL envisioned an urban landscape of light, sculpture, and
 
 ### Two Charles Center/Charles Towers (1969)
 
-- Erected in 1969 by developers Conklin + Rossant
+- **1969**: Erected by developers Conklin + Rossant
 - High-rise apartments, 385 feet/117 meters tall, 30 floors, tallest residential building in Baltimore
 
 **Nearby Buildings**
-- [Fidelity and Deposit Trust Company](https://en.wikipedia.org/w/index.php?title=Fidelity_and_Deposit_Trust_Company&action=edit&redlink=1 "Fidelity and Deposit Trust Company (page does not exist)") (1894) – North Charles and West Lexington Streets, 1894
-- Park Charles (1986) - designed by Winsor/Faricy, Inc. St. Paul, MN
-- [Charles Center South](https://en.wikipedia.org/w/index.php?title=Charles_Center_South&action=edit&redlink=1 "Charles Center South (page does not exist)") (1975) – North Charles and West Lombard Streets
+
+- **1894**: [Fidelity and Deposit Trust Company](https://en.wikipedia.org/w/index.php?title=Fidelity_and_Deposit_Trust_Company&action=edit&redlink=1 "Fidelity and Deposit Trust Company (page does not exist)") – North Charles and West Lexington Streets
+- **1986**: Park Charles – designed by Winsor/Faricy, Inc. St. Paul, MN
+- **1975**: [Charles Center South](https://en.wikipedia.org/w/index.php?title=Charles_Center_South&action=edit&redlink=1 "Charles Center South (page does not exist)") – North Charles and West Lombard Streets
 
 ### BG&E Building (1916/1966)
 
-- 21-story skyscraper built in 1916, designed by Parker, Thomas and Rice.
-- Standing at 88 m (289 ft) it was tied with the Emerson Bromo-Seltzer Tower from 1916 to 1923 as the tallest building in Baltimore.
+- **1916**: 21-story skyscraper designed by Parker, Thomas and Rice.
+- Standing at 88 m (289 ft) it tied the Emerson Bromo-Seltzer Tower from 1916 to 1923 as the tallest building in Baltimore.
 
 ** Parker, Thomas and Rice:** Architectural firm based in Boston and Baltimore (Douglas H. Thomas in Baltimore) also designed the Hotel Belvedere and the B&O Railroad Office Building among other iconic Baltimore landmarks
 
-- 1966 addition, designed by Fisher, Nes, Campbell and Associates (also worked on the World Trade Center as Associate Architects)
+- **1966**: Addition designed by Fisher, Nes, Campbell and Associates (also worked on the World Trade Center as Associate Architects)
 
 ## Lexington Street
 
@@ -124,11 +127,12 @@ George Kostritsky of RTKL envisioned an urban landscape of light, sculpture, and
 ### Segregation on Lexington Street
 
 ** November 1953:** “If You Ask Me,” _Afro-American Newspaper_, Mrs. B.M. Phillips:
+
 > Thanks to the Committee On Racial Equality, (CORE), the Urban league, and the Americans for Democratic Action, (ADA), more stores in the 200 block W. Lexington st. are realizing there is no color line in the dollars you spend. Lunch counters and restaurants in the Kresge and Woolworth Five and Ten have been serving all customers for several weeks. McCrory's has just reversed its policy and will serve all comers […] Schulte United in the 200 block Lexington is still acting silly."
 
 ### Schulte United Five and Dime – 200 block W. Lexington Street
 
-- Began as Eisenberg Underselling Store, later Eisenberg Company in 1901, by 1928 had over 600 employees at several locations, motto "prices that are irreproachable everywhere"
+- **1901**: Established as Eisenberg Underselling Store, later Eisenberg Company, by 1928 had over 600 employees at several locations, motto "prices that are irreproachable everywhere"
 - David A. Schulte, "tobacco store potentate," merged with United Cigar Stores in 1927, Entered five and dime retail business in 1928 with goal of 1,000 stores, $35,000,000 investment
 - ** 1954 January 28:** Schulte United Five-and-Dime dropped "color bar at eating counters in Baltimore"
 
@@ -153,10 +157,11 @@ George Kostritsky of RTKL envisioned an urban landscape of light, sculpture, and
 
 ### Read's Drug Store (1934) – Howard and Lexington Streets (Southeast corner)
 
-- Designed in 1934 by Baltimore architects Smith and May (also designed the Bank of America building in 1929) Opened on the 300th anniversary of Maryland colony, included terra cotta panels on the fourth-floor depicting sailing ships, pattern of dolphins on the interior dining balcony
+- **1934**: Read’s opened at Howard and Lexington on the 300th anniversary of Maryland colony
+	- Design by Baltimore architects Smith and May (who also designed the Bank of America building in 1929) included terra cotta panels on the fourth-floor depicting sailing ships, pattern of dolphins on the interior dining balcony
 - ** 1955:** after successful campaigns to desegregate the Kresge's and Grant's store chains, CORE joined with Morgan students fighting to desegregate the Read's Drug Store located at the Northwood Shopping Center.
-- January 20, 1955: a group of student activists from Morgan, staged a sit-in
-- January 22, 1955: _Afro-American_ runs the headline, "Now serve all," sit-down led to desegregation of the whole Read's chain
+- **January 20, 1955**: a group of student activists from Morgan, staged a sit-in
+- **January 22, 1955**: _Afro-American_ runs the headline, "Now serve all," sit-down led to desegregation of the whole Read's chain
 
 ## Howard & Lexington Streets
 
@@ -168,7 +173,7 @@ George Kostritsky of RTKL envisioned an urban landscape of light, sculpture, and
 
 **1960 April 17:** Issue resolved on Easter Sunday when the _Sun_ reported that store executive Albert D. Hutzler met with civil rights leaders Furman Templeton, David Glenn and Robert B. Watts, then announced "We have lifted restrictions. Negroes will be served in our restaurants." Hecht-May and other stores followed. [Source](http://articles.baltimoresun.com/2010-03-27/news/bal-md.kelly27mar27_1_blacks-department-store-lunch-counters)
 
-### Hecht-May Company (1920s)  – Howard and Lexington Streets (SW)
+### Hecht-May Company (1920s) – Howard and Lexington Streets (SW)
 
 - Built in the 1920s for the Hecht Company, merged in 1959 with the national May Company
 - Closed in 1988, Rite Aid opened in 1994
@@ -192,7 +197,7 @@ George Kostritsky of RTKL envisioned an urban landscape of light, sculpture, and
 
 - Proposals for Howard Street Transit Mall discussed through the late 1970s, eventually scaled down to the two blocks located north and south of Lexington Street, opened in November 1986
 
-> ** May 7, 1984:** ”This is a truncated, Reagan-era, version of the grand mall that was envisioned for Howard street and favored by the Urban Mass Transit Administration during the Carter administration, examples of which elsewhere are Chestnut street in Philadelphia, F Street in Washington, and State street in Chicago."
+> ** May 7, 1984:** “This is a truncated, Reagan-era, version of the grand mall that was envisioned for Howard street and favored by the Urban Mass Transit Administration during the Carter administration, examples of which elsewhere are Chestnut street in Philadelphia, F Street in Washington, and State street in Chicago."
 
 > ** November 22, 1986:** ”Some people will like the new arched lamp posts and other street furniture. Others may not. It all suggests an internal mall without a roof. But to comment properly, you have to see it for yourself. Howard Street was going down for years. Now it is looking up.”[^5]
 
