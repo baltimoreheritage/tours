@@ -2,6 +2,7 @@
 layout: post
 title: "Downtown Baltimore – Civil Rights and Urban Renewal"
 summary: "A walk around downtown Baltimore exploring the history of race, Civil Rights and changing ideas about urban renewal from the 1950s up to the present."
+date: 2015-10-06
 ---
 
 This tour was most recently modified on 2015 October 6 based on a series of tours of Downtown's West Side developed in 2011.

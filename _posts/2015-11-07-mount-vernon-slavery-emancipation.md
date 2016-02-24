@@ -2,6 +2,7 @@
 layout: post
 title: "Mount Vernon Place – Stories of Slavery & Emancipation"
 summary: "A walk around Mount Vernon Place highlighting the history of slavery and emancipation in Baltimore and Maryland."
+date: 2015-11-07
 ---
 
 # 1: Introduction
@@ -435,7 +436,7 @@ Democratic reaction against black Republican politics
 ## Clarke Residence?
 Mrs. Maria Clarke, owned one female slave (1860), lived with Mrs. William B. Clarke at 40 Mt. Vernon Place (Martha M. Clark owned another female slave)
 
----- 
+----
 
 [2] [](https://www.google.com/url?q=http://www.mountvernon.org/slavery&sa=D&usg=AFQjCNER8c7EUzaAB9PDEn7mDTyZPhmEug)[http://www.mountvernon.org/slavery](https://www.google.com/url?q=http://www.mountvernon.org/slavery&sa=D&usg=AFQjCNER8c7EUzaAB9PDEn7mDTyZPhmEug)
 [3] Phillips, 15
