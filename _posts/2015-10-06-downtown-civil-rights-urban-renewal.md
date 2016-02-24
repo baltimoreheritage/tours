@@ -55,7 +55,7 @@ The 1958 Charles Center promotional report stated:
 > “Here, open space will be used, loved and economically successful because it will be full of pleasant things: fountains, sculpture, flowers, umbrellas, flags, and trees. The open space will be, in its own way, as concentrated as the city around it.”
 
 - Three plazas, located on the interior of the two superblocks, linked through a series of elevated walkways, escalators and skywalks in order to overcome the problem of the site’s steep topography (a 68-foot drop in grade from the northern boundary of the site to the southern boundary)
-- Create a series of “pedestrian islands.” 
+- Create a series of “pedestrian islands.”
 - Envisioned as a landscape of light, sculpture, and water by George Kostritsky of RTKL
 - Circulation system was a typical component of urban design of the 1950s and 60; often promoted as a means of separating pedestrians from the automobile traffic. At Charles Center, the exterior circulation system was also intended to provide a venue for extensive retail activity.[^2]
 

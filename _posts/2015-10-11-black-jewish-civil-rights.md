@@ -301,7 +301,7 @@ Source: [Bolton Park Neighbors](http://boltonparkneighbors.com/boltonpark/histor
 
 ## 5.3: The Emersonian (1912) & The Esplanade (1915)
 
-In his later years, **Albert Hutzler** lived at the **Esplanade**; **Max Hoschild**, owner/president of the Hoschild-Kohn Department Store that stood next to Hutzler’s store on Howard Street, lived at the **Emersonian**. 
+In his later years, **Albert Hutzler** lived at the **Esplanade**; **Max Hoschild**, owner/president of the Hoschild-Kohn Department Store that stood next to Hutzler’s store on Howard Street, lived at the **Emersonian**.
 
 **Hoschild-Kohn's** was established as a partnership between Max, Benno Kohn and his brother Louis B. Kohn. Max Hoschild died June 1, 1957 at age 102 lived in the Emersonian Apartments, kept an office at the downtown store from his retirement up through shortly before 1957
 
