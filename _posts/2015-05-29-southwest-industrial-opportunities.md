@@ -3,7 +3,7 @@ layout: post
 title: "Explore Southwest Baltimore Industrial Opportunities: Bus Tour and Discussion"
 summary: "A two-hour bus tour and discussion on industrial building reuse and economic development."
 categories: bus
-date:       2015-05-29
+date: 2015-05-29
 ---
 
 _This tour was developed in partnership with Carol Ott, Housing Policy Watch and Andrew Cook, Baltimore City Planning Department._
