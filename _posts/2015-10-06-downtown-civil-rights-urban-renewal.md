@@ -2,7 +2,6 @@
 layout: post
 title: "Downtown Baltimore – Civil Rights and Urban Renewal"
 summary: "A walk around downtown Baltimore exploring the history of race, Civil Rights and changing ideas about urban renewal from the 1950s up to the present."
-date:       2015-10-16
 ---
 
 This tour was most recently modified on 2015 October 6 based on a series of tours of Downtown's West Side developed in 2011.
@@ -37,7 +36,7 @@ Thomas D'Alesandro died in 1987:
 
 **David Wallace:** In Philadelphia, PA in 1953, under Mayor Joseph S. Clark, David Wallace led a citywide urban redevelopment evaluation that resulted in the Central Urban Renewal Area (CURA) Report. The report established a new strategy for overall redevelopment that targeted catalytic actions to strengthen communities and downtown. CURA became a model for Baltimore, MD.
 
-- **March 1958:** Presented a plan to Mayor & City Council calling for office buildings, commercial space, hotels, a theatre, underground parking, etc. Unusual in for incorporating existing structures (not a "clean-slate" design), across a 33 acre site.  Includes three public plazas designed by [RTKL](http://en.wikipedia.org/wiki/RTKL "RTKL"), connected by walkways and pedestrian bridges. Plan formed the basis of a $25 million bond issue that year. Eventually spent $40 million public funding, $145 million private investment.
+- **March 1958:** Presented a plan to Mayor & City Council calling for office buildings, commercial space, hotels, a theatre, underground parking, etc. Unusual in for incorporating existing structures (not a "clean-slate" design), across a 33 acre site. Includes three public plazas designed by [RTKL](http://en.wikipedia.org/wiki/RTKL "RTKL"), connected by walkways and pedestrian bridges. Plan formed the basis of a $25 million bond issue that year. Eventually spent $40 million public funding, $145 million private investment.
 - GBC established an **Architectural Review Board **: Deans from three of the most prominent architectural schools in the U.S. (Harvard, MIT and University of Pennsylvania) who judged the plans for each parcel of land before development.
 
 Public benefits: _increase in employment_ help the city's economy; _increase in tax base_ will mean more city resources to meet the needs of the poor. Property development scheme of direct benefit to corporate and finance capital: new downtown employment in skilled or high-paying jobs went to suburban residents, jobs created for city residents are temporary construction or low-paying service sector.[^1]
@@ -174,7 +173,7 @@ The 1958 Charles Center promotional report stated:
 
 **1960 April 17:** Issue resolved on Easter Sunday when the _Sun_ reported that store executive Albert D. Hutzler met with civil rights leaders Furman Templeton, David Glenn and Robert B. Watts, then announced "We have lifted restrictions. Negroes will be served in our restaurants." Hecht-May and other stores followed. [Source](http://articles.baltimoresun.com/2010-03-27/news/bal-md.kelly27mar27_1_blacks-department-store-lunch-counters)
 
-### Hecht-May Company (1920s)  – Howard and Lexington Streets (SW)
+### Hecht-May Company (1920s) – Howard and Lexington Streets (SW)
 
 - Built in the 1920s for the Hecht Company, merged in 1959 with the national May Company
 - Closed in 1988, Rite Aid opened in 1994

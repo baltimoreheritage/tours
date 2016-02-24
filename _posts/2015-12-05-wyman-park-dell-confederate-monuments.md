@@ -91,7 +91,7 @@ _Sculptor_: Hans Schuler
 - **1873**: Johns Hopkins dies
 - **1875**: University established in his name
 - **1935**: Erected at N. Charles and E. 34th Streets [Who came?]
-- **1952**: 2 firefighters killed, 6 injured when fire trucks racing to a dormitory mattress fire collided, their view obstructed by the monument  
+- **1952**: 2 firefighters killed, 6 injured when fire trucks racing to a dormitory mattress fire collided, their view obstructed by the monument
 - **1955**: After 3 years, JHU and Baltimore City agree on a new site (JHU opposed a plan to locate monument on what is now "the Beach”) at N. Charles and E. 33rd Streets
 - **2001**: San Martin Center built, changing the backdrop from a wooded glade to spare brick walls
 
@@ -108,7 +108,7 @@ _About Johns Hopkins_
 
 > A Quaker from a plantation in Virginia, Hopkins and his brothers first business was selling supplies from covered wagons in the Shenandoah Valley. Occasionally they traded goods for corn whiskey, repackaged the liquor, and sold it to Baltimoreans as Hopkins Best. After a series of businesses Hopkins eventually helped bankroll the Baltimore and Ohio Railroad during the company’s westward expansion, bailing the company out of debt several times and making himself a very wealthy man in the process. During and after the Civil War, Hopkins thrived as an investor and professional, becoming one of the richest men in American history.
 
-Sources[Monument City Blog](http://monumentcity.net/2009/03/29/johns-hopkins-monument-baltimore-md/),  [JHU Magazine](http://pages.jh.edu/jhumag/0602web/statues.html)
+Sources[Monument City Blog](http://monumentcity.net/2009/03/29/johns-hopkins-monument-baltimore-md/); [JHU Magazine](http://pages.jh.edu/jhumag/0602web/statues.html)
 
 
 
@@ -116,11 +116,11 @@ Sources[Monument City Blog](http://monumentcity.net/2009/03/29/johns-hopkins-mon
 
 - Creator: J. Maxwell Miller
 - Location: N. Charles and University Parkway
-	  
+
 The sculpture was created by J. Maxwell Miller, a Baltimorean, who taught at the Maryland Institute College of Art, and eventually became the director of the Rinehart School (also sculptor of the Star-Spangled Banner Centennial Monument). The sculpture depicts a dying soldier being cradled by his mother in the foreground. Behind this pair stands a woman looking off into the distance, who typifies the "devoted women of the Confederacy". The dying soldier and his mother is a pieta, a traditional Christian sculptural subject that depicts Christ dying in the arms of his mother Mary after his crucifixion. 
 
 The erection of the monument was part of a larger movement spearheaded by Confederate veterans beginning in 1906 to place a monument to honor the sacrifices of Confederate women in the capital of each of the thirteen Southern states. The original plan was for the states to erect a replica of the Confederate Women's monument located in Richmond, Virginia. However, by 1910, the Maryland Chapter of the Daughters of the Confederacy decided to have their own design for the monument.  
-  
+
 The inscription on the front reads:
 
 > TO THE/CONFEDERATE WOMEN/OF MARYLAND/ 1861-1865/ "THE BRAVE AT HOME"
@@ -145,7 +145,7 @@ In May 1946, the Sun published a light feature by Amy Grief suggests the popular
 
 > “So you drive out Charles street, turn the car at University parkway to face south start with specimen No. 1 — that “Confederate Women of Maryland” price, “The Brave at Home.” It has been there many years, but you’ve never noticed it. It’s not particularly distinguished, not bad—simply a part of the landscape you’ve accepted.
 
-Sources: [History of the UDC](http://www.hqudc.org/history-of-the-united-daughters-of-the-confederacy/),  [Monument City Blog](http://monumentcity.net/2009/05/18/confederate-women-memorial-baltimore-md/)
+Sources: [History of the UDC](http://www.hqudc.org/history-of-the-united-daughters-of-the-confederacy/); [Monument City Blog](http://monumentcity.net/2009/05/18/confederate-women-memorial-baltimore-md/)
 
 # Sidney Lanier Monument
 
@@ -177,7 +177,7 @@ _What was Point Lookout?_
 
 > ”a Union POW camp, with bitter cold conditions and no barracks, the captured soldiers and civilians died by the scores. Of the fifty thousand detainees, some four thousand perished, and countless others contracted tuberculosis. Lanier was not spared, and he left the jail skinny and emaciated, bound to suffer from consumption for the rest of his short life.”
 
--  **1867**: Lanier published his only novel, Tiger Lilies, about his time at Point Lookout
+- **1867**: Lanier published his only novel, Tiger Lilies, about his time at Point Lookout
 - **1873**: Lanier offered the position of first flute in the Peabody Symphony Orchestra (1866-1896) by Asger Hamerik
 
 _Letter from Lanier to wife, c. 1873:_
@@ -187,13 +187,13 @@ _Letter from Lanier to wife, c. 1873:_
 - **1879**: Lanier appointed a lecturer in English literature at JHU
 - **1881**: Lanier died from tuberculosis at age 39, buried in Green Mount Cemetery
 
-Sources: [Monument City Blog](http://monumentcity.net/2009/03/17/sidney-lanier-monument-baltimore-md/), [Historic Marker Database](http://www.hmdb.org/marker.asp?marker=70802), [Peabody Orchestra - Wikipedia](https://en.wikipedia.org/wiki/Peabody_Orchestra),  [JHU Magazine](http://pages.jh.edu/jhumag/0602web/statues.html)
+Sources: [Monument City Blog](http://monumentcity.net/2009/03/17/sidney-lanier-monument-baltimore-md/); [Historic Marker Database](http://www.hmdb.org/marker.asp?marker=70802); [Peabody Orchestra - Wikipedia](https://en.wikipedia.org/wiki/Peabody_Orchestra); [JHU Magazine](http://pages.jh.edu/jhumag/0602web/statues.html)
 
 # Johns Hopkins University
 
 _Note: It may make sense to include some discussion on the relationship of Johns Hopkins University to Confederate memory in Baltimore and historical scholarship on the Civil War and Reconstruction in Maryland._
 
-Potential topics could include:
+Additional potential topics for discussion at this stop could include:
 
 - W.E.B. Dubois on Johns Hopkins University (see Memory in Black and White)
 - The Rise of Jim Crow
@@ -237,21 +237,18 @@ Sources: [JHU blog](http://blogs.library.jhu.edu/wordpress/2015/07/the-road-that
 
 # Lee-Jackson Monument
 
-The Lee and Jackson Monument was the first double equestrian monument in the United States. The funds for the sculpture came from J. Henry Ferguson, the banker who organized the Colonial Trust Company. In his will, he left specific instructions for a monument of his childhood heroes, Robert E. Lee and Stonewall Jackson, which was gifted to the City of Baltimore. Although Ferguson died in 1928, the sculpture was not dedicated until 1948 due to various factors, including World War II.
-  
-The monument depicts the two men on their horses right before departing for the Battle of Chancellorsville. While Jackson was fatally wounded in the battle, the Confederate army ultimately won, and the battle was later considered to be Lee's greatest victory.  
+The Lee and Jackson Monument was the first double equestrian monument in the United States. The monument depicts the two men on their horses right before departing for the Battle of Chancellorsville. While Jackson was fatally wounded in the battle, the Confederate army ultimately won, and the battle was later considered to be Lee's greatest victory.
  
-The sculpture was made by **Laura Gardin Fraser**, who won the design competition for the commission in 1935. She commissioned the architect John Russell Pope (who designed the Baltimore Museum of Art directly north of the monument) to design the base of the monument. The sculpture was cast in 1946. The monument was dedicated on May 1, 1948, the eighty-fifty anniversary of the eve of the Battle of Chancellorsville.
- 
-**December 1928**: J. Harry Ferguson, president of the Colonial Trust Company, died and, in his will, provided a gift of $100,000 to the Baltimore Municipal Arts Society providing for the erection of a monument dedicated to Robert E. Lee and Thomas J. Jackson.
-**October 1934**: In his will, Ferguson required that the gift be turned over only after the death of his sister, Ella F. Ward, who passed away on October 10, 1934.
-**1936**: Design selected, controversial reception centered largely on the authenticity of the hats and other clothing worn by the figures. 
-** July 1939**: Construction begins on the pedestal. Artist planned to be done in the summer of 1938; in August 1939, the artist offered a new estimate of completion for early 1941. Later revised to late spring 1942, the work stopped again due to “an acute shortage of Italian clay” and limits on metal during World War II.
-**1948**: Lee-Jackson Monument dedicated
+- **December 1928**: J. Harry Ferguson, president of the Colonial Trust Company, died and, in his will, provided a gift of $100,000 to the Baltimore Municipal Arts Society providing for the erection of a monument dedicated to Robert E. Lee and Thomas J. Jackson.
+- **October 1934**: In his will, Ferguson required that the gift be turned over only after the death of his sister, Ella F. Ward, who passed away on October 10, 1934.
+- **1936**:  **Laura Gardin Fraser**, who won the design competition for the commission in 1935 (?). She commissioned the architect John Russell Pope (who designed the Baltimore Museum of Art directly north of the monument) to design the base of the monument, controversial reception centered largely on the authenticity of the hats and other clothing worn by the figures. 
+- ** July 1939**: Construction begins on the pedestal. Artist planned to be done in the summer of 1938; in August 1939, the artist offered a new estimate of completion for early 1941. Later revised to late spring 1942, the work stopped again due to “an acute shortage of Italian clay” and limits on metal during World War II.
+- **1946**: Sculpture is cast
+- ** May 1, 1948**: Lee-Jackson Monument dedicated, eighty-fifty anniversary of the eve of the Battle of Chancellorsville.
 
 _Note: The following is an extended excerpt from our essay on [Confederate Memory in Baltimore](http://baltimoreheritage.github.io/baltimore-civil-rights-heritage/confederate-memory/). This section should be edited to identify key quotes and summarize the perspective of the various historical actors._
 
-Writing on May 1, 1948, The Sun editorialized that “the laymen, or at least most of the laymen with whom we have talked” saw the Lee-Jackson Monument as a “noble thing” noting:
+Writing on May 1, 1948, _The Sun_ editorialized that “the laymen, or at least most of the laymen with whom we have talked” saw the Lee-Jackson Monument as a “noble thing” noting:
 
 > ”They are willing to believe, here and now, that this monument will be loved at and enjoyed by people who know little and care less about the incident it commemorates. They rejoice in its setting, and the appropriateness of its pedestal. They hold, and we go along with them, that here is one memorial which raises the average of our public art and helps support our reputation as the Monumental City.”
 
