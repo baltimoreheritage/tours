@@ -11,7 +11,7 @@ gems:
   - jekyll-paginate
 
 # Google services
-google_analytics:
+google_analytics: UA-16215864-8
 google_verification:
 
 # Optional features
