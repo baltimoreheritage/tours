@@ -1,8 +1,8 @@
 # Site settings
-title:       Baltimore Heritage Tours
+title:       Baltimore Heritage Open Tours
 email:       info@baltimoreheritage.org
 author:      Baltimore Heritage
-description: "A collection of resources, maps, and notes for Baltimore Heritage tour programs."
+description: "An open-source collection of resources, maps, and notes for Baltimore Heritage tour programs."
 baseurl:     "/tours"
 url:         "http://baltimoreheritage.github.io"
 date_format: "%b %-d, %Y"
