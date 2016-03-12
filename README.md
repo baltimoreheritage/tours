@@ -1,6 +1,6 @@
 # Baltimore Heritage Open Tours
 
-An open-source collection of maps, data, scripts and notes related to [Baltimore Heritage tour programs](http://baltimoreheritage.org/tours).
+An open-source collection of maps, data, scripts and notes related to [Baltimore Heritage tour programs](http://baltimoreheritage.org/tours) available under a [Creative Commons Attribution License](http://creativecommons.org/licenses/by/4.0/) (CC BY 4.0).
 
 ## What is this?
 
