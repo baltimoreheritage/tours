@@ -25,7 +25,7 @@ This tour is about understanding how relationships between Baltimore’s black a
 
 Key concepts in each section of the notes have been **marked in bold**. Large headings separate stops or sections of the tour. We plan to update with information on the estimated amount of time we plan to spend at each stop. Smaller headings separate major concepts within the narrative. These notes are not intended to be read verbatim but are instead meant to inform and guide a tour leader as they respond to the group of participants.
 
-These notes were prepared by Eli Pousson for a bicycle tour on 2015 October 11. Sites of interest on the tour and vicinity are available as a GeoJSON file that we are planning to turn into an interactive map. Of related interest is our [broader map of Civil Rights associated sites](http://baltimoreheritage.github.io/baltimore-civil-rights-heritage/map/).
+These notes were prepared by Eli Pousson for a bicycle tour on 2015 October 11. Sites of interest on the tour and vicinity are available as a GeoJSON file that we are planning to turn into an interactive map. Of related interest is our [broader map of Civil Rights associated sites](http://baltimoreheritage.github.io/civil-rights-heritage/map/).
 
 # 2: Welcome & Introduction
 

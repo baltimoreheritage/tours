@@ -6,9 +6,9 @@ categories: bike
 date: 2015-08-09
 ---
 
-# Introduction
-
 **Note:** These tour notes were prepared in July/August 2015 by Eli Pousson for [Vacant Houses by Bike: Vacant Houses by Bike: Salvage, Demolish or Preserve?](http://baltimoreheritage.org/event/vacant-houses-preservation-demolition-renewal-bike/) – a bike tour program organized by Baltimore Heritage on August 9. They are presented here in their rough form including extended from a variety of publications. We hope to revise and expand these notes if we repeat this tour in the future.
+
+# Introduction
 
 We have a problem with vacant houses in Baltimore. A vacant might be a bank-owned brick townhouse from the 1970s; a narrow two-story rowhouse built for working-class whites in the 1910s; or a four-story 1870s mansion half-collapsed into the basement.
 
@@ -36,7 +36,7 @@ Baltimore City estimates the city holds around 16,000 vacant properties — most
 
 **Homesteading in Otterbein**
 
-**1986**: NYT reported --
+**1986**: NYT reported —
 
 > During the 1970's the city sold blocks of abandoned Federal-style row houses in downtown neighborhoods for $1 apiece and provided buyers with up to $37,000 in low-interest construction loans. The city provided technical assistance and authorized payments to approved contractors. Major work had to be completed within six months and, after 18 months in residency, homesteaders received the deeds to the houses. Baltimore's homesteading program, for example, brought only 600 houses back to life during the 10-year program. By comparison, 40,000 families are on a nine-year waiting list for Baltimore's 20,000 units of public housing.
 
