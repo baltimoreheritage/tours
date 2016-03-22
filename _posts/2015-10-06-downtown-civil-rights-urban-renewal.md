@@ -15,20 +15,24 @@ This tour was most recently modified on 2015 October 6 based on a series of tour
 
 ## Preston Gardens – St. Paul Street
 
-_See the [Preston Gardens study](baltimoreheritage.github.io/baltimore-civil-rights-heritage/places/preston-gardens) for more information._
+_See the [Preston Gardens study](baltimoreheritage.github.io/civil-rights-heritage/places/preston-gardens) for more information._
 
 ## Charles Center
 
 ### Mayor Thomas D'Alesandro, Jr. - Double Statue (1987)
 
-**A. Lloyd Lillie, Jr.**: Born 1932, award-winning sculptor; received a diploma from the School of the Museum of Fine Arts, Boston, and also studied at Skowhegan School of Painting & Sculpture, the Corcoran School of Art, and the Accademia di Belle Arti, Florence. [Source.](http://www.bu.edu/cfa/profile/a-lloyd-lillie-jr/)
+**A. Lloyd Lillie, Jr.**: Born 1932, award-winning sculptor; received a diploma from the School of the Museum of Fine Arts, Boston, and also studied at Skowhegan School of Painting & Sculpture, the Corcoran School of Art, and the Accademia di Belle Arti, Florence.
+
+[Source.](http://www.bu.edu/cfa/profile/a-lloyd-lillie-jr/)
 
 > A double portrait of former Baltimore mayor, Thomas D'Alesandro, Jr., a driving force behind the downtown revitalization of Charles Center. One portrait depicts D'Alesandro casually standing by the side of the plaza looking out over Charles Center. His proper right hand rests on the railing of the plaza and his proper left hand rests on his left trouser pocket. A few feet away, another portrait depicts him relaxing on a park bench with his arms stretched out over the back of the bench. His legs are crossed and he looks over to his proper left.
 
 Thomas D'Alesandro died in 1987:
 
 > As mayor from 1947 to 1959, D'Alesandro presided over a period of vast physical improvements in Baltimore. An airport was opened outside the city during his tenure, and major league baseball returned to Baltimore.
-> In 1958, he won voter approval for the financing of the Charles Center urban renewal project, launching the rejuvenation that remade much of the heart of his beloved city. [Source.](http://articles.latimes.com/1987-08-29/news/mn-1349_1_thomas-d-alesandro-jr)
+> In 1958, he won voter approval for the financing of the Charles Center urban renewal project, launching the rejuvenation that remade much of the heart of his beloved city.
+
+[Source.](http://articles.latimes.com/1987-08-29/news/mn-1349_1_thomas-d-alesandro-jr)
 
 ### About Charles Center
 
@@ -38,7 +42,7 @@ Thomas D'Alesandro died in 1987:
 **David Wallace:** In Philadelphia, PA in 1953, under Mayor Joseph S. Clark, David Wallace led a citywide urban redevelopment evaluation that resulted in the Central Urban Renewal Area (CURA) Report. The report established a new strategy for overall redevelopment that targeted catalytic actions to strengthen communities and downtown. CURA became a model for Baltimore, MD.
 
 - **March 1958:** Presented a plan to Mayor & City Council calling for office buildings, commercial space, hotels, a theatre, underground parking, etc. Unusual in for incorporating existing structures (not a "clean-slate" design), across a 33 acre site. Includes three public plazas designed by [RTKL](http://en.wikipedia.org/wiki/RTKL "RTKL"), connected by walkways and pedestrian bridges. Plan formed the basis of a $25 million bond issue that year. Eventually spent $40 million public funding, $145 million private investment.
-- GBC established an **Architectural Review Board **: Deans from three of the most prominent architectural schools in the U.S. (Harvard, MIT and University of Pennsylvania) who judged the plans for each parcel of land before development.
+- GBC established an **Architectural Review Board**: Deans from three of the most prominent architectural schools in the U.S. (Harvard, MIT and University of Pennsylvania) who judged the plans for each parcel of land before development.
 
 Public benefits: _increase in employment_ help the city's economy; _increase in tax base_ will mean more city resources to meet the needs of the poor. Property development scheme of direct benefit to corporate and finance capital: new downtown employment in skilled or high-paying jobs went to suburban residents, jobs created for city residents are temporary construction or low-paying service sector.[^1]
 
@@ -139,15 +143,11 @@ The 1958 Charles Center promotional report stated:
 
 ### Kirby-Woolworth Building – 223 W. Lexington Street
 
-- Kirby Building built for Mr. Frederick M. Kirby, 1907 by Architect Charles M. Anderson
-- H.G. Woolworth & Co. building constructed 1907 designed by John K. Stack, built by George Bunecke & Sons, owned by Mrs. Mary V. Wylie
-- Buildings combined into a single structure following 1912 merger
-
-**Kirby & Woolworth**
-- ** 1877:** F.M. Kirby met Woolworth in Watertown, NY
-- **1884: ** Woolworth & Kirby open a five-and-ten cent store in Wilkes-Barre, PA; split in 1887
-- **1911: ** F. M. Kirby & Company owned and operated ninety-six stores
-- ** 1912 January 1 ** Merged to form the Woolworth Company
+- **1877**: F.M. Kirby met Woolworth in Watertown, NY
+- **1884**: Woolworth & Kirby open a five-and-ten cent store in Wilkes-Barre, PA; partners split in 1887
+- **1907**: Kirby Building built for Mr. Frederick M. Kirby by architect Charles M. Anderson; H.G. Woolworth & Co. building constructed  designed by John K. Stack, built by George Bunecke & Sons, owned by Mrs. Mary V. Wylie
+- **1911**: F. M. Kirby & Company owned and operated ninety-six stores
+- **1912 January 1**: Merged to form the Woolworth Company
 
 ### McCrory's Building – 227-229 W. Lexington Street
 
@@ -160,7 +160,7 @@ The 1958 Charles Center promotional report stated:
 
 - **1934**: Read’s opened at Howard and Lexington on the 300th anniversary of Maryland colony
 	- Design by Baltimore architects Smith and May (who also designed the Bank of America building in 1929) included terra cotta panels on the fourth-floor depicting sailing ships, pattern of dolphins on the interior dining balcony
-- ** 1955:** after successful campaigns to desegregate the Kresge's and Grant's store chains, CORE joined with Morgan students fighting to desegregate the Read's Drug Store located at the Northwood Shopping Center.
+- **1955:** after successful campaigns to desegregate the Kresge's and Grant's store chains, CORE joined with Morgan students fighting to desegregate the Read's Drug Store located at the Northwood Shopping Center.
 - **January 20, 1955**: a group of student activists from Morgan, staged a sit-in
 - **January 22, 1955**: _Afro-American_ runs the headline, "Now serve all," sit-down led to desegregation of the whole Read's chain
 
@@ -172,12 +172,15 @@ The 1958 Charles Center promotional report stated:
 
 **1960 March 26:** Black student activists attempted to purchase food at department store restaurants at the Northwood Shopping Center and downtown; black students were attempting to buy lunch at four downtown department stores, only successful at Hochschild Kohn. Stewart's shut its food counters to all, white and black, and closed the food operation. About 20 blacks entered a Hutzler's restaurant and waited for three hours, but were not served.
 
-**1960 April 17:** Issue resolved on Easter Sunday when the _Sun_ reported that store executive Albert D. Hutzler met with civil rights leaders Furman Templeton, David Glenn and Robert B. Watts, then announced "We have lifted restrictions. Negroes will be served in our restaurants." Hecht-May and other stores followed. [Source](http://articles.baltimoresun.com/2010-03-27/news/bal-md.kelly27mar27_1_blacks-department-store-lunch-counters)
+**1960 April 17:** Issue resolved on Easter Sunday when the _Sun_ reported that store executive Albert D. Hutzler met with civil rights leaders Furman Templeton, David Glenn and Robert B. Watts, then announced "We have lifted restrictions. Negroes will be served in our restaurants." Hecht-May and other stores followed.
+
+[Baltimore Sun](http://articles.baltimoresun.com/2010-03-27/news/bal-md.kelly27mar27_1_blacks-department-store-lunch-counters)
 
 ### Hecht-May Company (1920s) – Howard and Lexington Streets (SW)
 
-- Built in the 1920s for the Hecht Company, merged in 1959 with the national May Company
-- Closed in 1988, Rite Aid opened in 1994
+- 1920s: Built in the  for the Hecht Company
+- 1959: Merged in  with the national May Company
+- 1988: Department store closed, Rite Aid opened in 1994
 
 ### Stewart's Department Store (1899) – Howard and Lexington Streets (NE)
 
@@ -189,7 +192,7 @@ The 1958 Charles Center promotional report stated:
 
 ## Hoschild Kohn’s Site
 
-> ”Hutzler's was the premier store. Hocschild's was for common people like me. I'm a common person. I curse, I drink. Oh my, I'm a horrible man"
+> "Hutzler's was the premier store. Hocschild's was for common people like me. I'm a common person. I curse, I drink. Oh my, I'm a horrible man"
 > — William Donald Schaefer
 
 ## Howard Street
@@ -198,14 +201,14 @@ The 1958 Charles Center promotional report stated:
 
 - Proposals for Howard Street Transit Mall discussed through the late 1970s, eventually scaled down to the two blocks located north and south of Lexington Street, opened in November 1986
 
-> ** May 7, 1984:** “This is a truncated, Reagan-era, version of the grand mall that was envisioned for Howard street and favored by the Urban Mass Transit Administration during the Carter administration, examples of which elsewhere are Chestnut street in Philadelphia, F Street in Washington, and State street in Chicago."
+> ** May 7, 1984:** "This is a truncated, Reagan-era, version of the grand mall that was envisioned for Howard street and favored by the Urban Mass Transit Administration during the Carter administration, examples of which elsewhere are Chestnut street in Philadelphia, F Street in Washington, and State street in Chicago."
 
-> ** November 22, 1986:** ”Some people will like the new arched lamp posts and other street furniture. Others may not. It all suggests an internal mall without a roof. But to comment properly, you have to see it for yourself. Howard Street was going down for years. Now it is looking up.”[^5]
+> ** November 22, 1986:** "Some people will like the new arched lamp posts and other street furniture. Others may not. It all suggests an internal mall without a roof. But to comment properly, you have to see it for yourself. Howard Street was going down for years. Now it is looking up.""[^5]
 
 ### Hutzler's Palace Building (1888) – Howard Street
 
 - **1858:** Moses _Hutzler_ opened his little retail store on Howard Street and Clay. Over the next fifty years, other stores, both small and large, joined him, opening up and down Howard Street.
-- **1868: ** Established the "One-Price House" policy, no haggling
+- **1868:** Established the "One-Price House" policy, no haggling
 - **1888:** Expanded to open Palace Building, 200 employees,
 
 Palace building designed architects Baldwin & Pennington. Neoclassical architecture, Nova Scotia gray stone, carved with arabesque heads and foliage, and large display windows.
@@ -213,8 +216,8 @@ Palace building designed architects Baldwin & Pennington. Neoclassical architect
 ### Hutzler's Tower (1931) – Howard Street
 
 - ** 1931:**Hutzler's Tower Building, 254 NorthHoward Street, designed by James R. Edmunds (trained in the office of Joseph Evans Sperry), planned literally to "tower" over the old Palace building on the south.
-- ** 1977 September: ** “Baltimore Gardens" proposal advanced to redevelop the block including Hoschild Kohn and Hutzlers
-- ** 1978:** Downtown store closed
+- ** 1977 September:** “Baltimore Gardens" proposal advanced to redevelop the block including Hoschild Kohn and Hutzlers
+- **1978:** Downtown store closed
 
 ## Lexington Market
 
@@ -239,14 +242,14 @@ Palace building designed architects Baldwin & Pennington. Neoclassical architect
 
 ### Everyman Theater/Town Theater (1911) – 315 West Fayette Street
 
-- ** 1911: ** Built as the Empire Theater, designed in the Beaux Arts style by Baltimore architects William McElfatrick and Otto Simonson, closed in 1927.
-- ** 1937: ** Converted to a parking garage
-- ** 1947:** Returned as The Town Theater in with Art Moderne details by architects Lucius White and John Zinc. Opened with a premier of "It's a Wonderful Life," with Jimmy Stewart in the audience.
-- ** 2011:** Reopened as the new Everyman Theater
+- **1911:** Built as the Empire Theater, designed in the Beaux Arts style by Baltimore architects William McElfatrick and Otto Simonson, closed in 1927.
+- **1937:** Converted to a parking garage
+- **1947:** Returned as The Town Theater in with Art Moderne details by architects Lucius White and John Zinc. Opened with a premier of "It's a Wonderful Life," with Jimmy Stewart in the audience.
+- **2011:** Reopened as the new Everyman Theater
 
 ### Brewer's Exchange (1896) – 20 Park Avenue (at Fayette Street)
 
-- **1896:** Brewing industry group builds a rhree-story Renaissance Revival style building designed by local architect Joseph Evans Sperry
+- **1896:** Brewing industry group builds a three-story Renaissance Revival style building designed by local architect Joseph Evans Sperry
 
 **Joseph Evans Sperry (1854-1930)**: Native of Georgetown, South Carolina relocated to Baltimore as a young man, also designed Provident Savings Bank and the Emerson "Bromo-Seltzer" Tower.
 

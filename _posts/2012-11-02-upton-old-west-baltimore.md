@@ -6,20 +6,36 @@ date: 2012-11-02
 ---
 
 _This tour is based on a 2010 walking tour program developed in partnership with Dr. David Terry and substantially revised on November 2, 2012. Eli Pousson made substantial revisions to these notes in February 2016 based on related research for the [Looking for Landmarks from the Movement](http://baltimoreheritage.github.io/civil-rights-heritage/) research and documentation project. The revisions also borrowed material from the [Black and Jewish Civil Rights Heritage by Bike](http://baltimoreheritage.github.io/tours/2015/10/11/black-jewish-civil-rights/) tour._
+<!-- TOC depthFrom:1 depthTo:1 withLinks:1 updateOnSave:1 orderedList:0 -->
 
-# Introduction
+- [Introduction](#introduction)
+- [Eutaw Place](#eutaw-place)
+- [Douglass Memorial](#douglass-memorial)
+- [Segregation and McCulloh Street](#segregation-and-mcculloh-street)
+- [Western Female High School/Booker T. Washington Middle School](#western-female-high-schoolbooker-t-washington-middle-school)
+- [Royal Theater](#royal-theater)
+- [Public School 103](#public-school-103)
+- [Sharp Street Church](#sharp-street-church)
+- [Druid Hill Avenue](#druid-hill-avenue)
+- [Mount Royal](#mount-royal)
 
-## What is this tour about?
+<!-- /TOC -->
+
+## Introduction
+
+### What is this tour about?
 
 - Understand the movement of African Americans into northwest Baltimore in the late 19th and early 20th century
 - Learn about Baltimore’s connections to the national Civil Rights movement through organizations like the NAACP and individuals like Thurgood Marshall
 - Learn about lesser-known local leaders in the Civil Rights movement, like Lillie Mae Carroll Jackson
 
-## Early history of South Baltimore
+### Early history of South Baltimore
 
-Many African Americans lived in South Baltimore and Pigtown:
+Many African Americans lived in South Baltimore and Pigtown.
 
-> “Open drains, great lots filled with high weeds, ashes and garbage accumulated in the alleyways"
+1892, _Baltimore News_ reported on:
+
+> “Open drains, great lots filled with high weeds, ashes and garbage accumulated in the alleyways, cellars filled with filthy water.“
 
 Source: [Deconstructing the Slums of Baltimore](http://digitalcommons.law.umaryland.edu/cgi/viewcontent.cgi?article=1298&context=fac_pubs) (2002), Garrett Power
 
@@ -27,12 +43,12 @@ Source: [Deconstructing the Slums of Baltimore](http://digitalcommons.law.umaryl
 - Baltimore's black middle-class sought better housing in northwest Baltimore, especially on Druid Hill Avenue
 - B&O Railroad displaced 100 black families to expand the railroad yards
 
-## Expansion of Old West Baltimore
+### Expansion of Old West Baltimore
 
 - "The Bottom" around Biddle Alley, bounded by Biddle Street, Argyle Avenue, Druid Hill Avenue, North Avenue, city's 17th ward
 - By **1904**, ½ of Baltimore’s black population lived in the neighborhood
 
-# Eutaw Place
+## Eutaw Place
 
 - **1853 March 19**: Baltimore City accepts Eutaw Place as a gift Henry Tiffany, requiring Tiffany to build "not less than seven houses of not less than twenty five feet front and three stories high" in exchange for park improvements
 - **1876 May 23**: Northern end of Eutaw Place moved from Laurens Street (limit of Tiffany property) to North Avenue, perimeter railing removed around this time (late 1870s)
@@ -45,7 +61,7 @@ Source: [Deconstructing the Slums of Baltimore](http://digitalcommons.law.umaryl
 - **1880**: Confederate Monument proposed for Eutaw and Lafayette
 - **1911**: [Francis Scott Key Monument](http://explore.baltimoreheritage.org/items/show/105#.VtS595MrKAw) erected
 
-## Prince Hall Masonic Lodge
+### Prince Hall Masonic Lodge
 
 **Origins as Temple Oheb Shalom**
 
@@ -63,7 +79,7 @@ Source: [Deconstructing the Slums of Baltimore](http://digitalcommons.law.umaryl
 
 Source: [Explore Baltimore Heritage](http://explore.baltimoreheritage.org/items/show/100#.VtS595MrKAw)
 
-## Lillie Mae Carroll Jackson House – 1320 Eutaw Place
+### Lillie Mae Carroll Jackson House – 1320 Eutaw Place
 
 - Jackson grew up singing soprano in the choir of the Sharp Street Church
 - Lived on Eutaw for 20 years
@@ -71,9 +87,9 @@ Source: [Explore Baltimore Heritage](http://explore.baltimoreheritage.org/items/
 - At one forum gathering, Charles Hamilton Houston, informed the audience "we could sue Jim Crow out of Maryland." Subsequently, Carl Murphy of the Afro-American newspaper suggested that Lillie join forces with the NAACP. That was the beginning of her thirty-five year tenure with the NAACP, in a role as president of the Baltimore branch in **1935**, a position she held until retirement in **1970**. 1934 saw the beginning of Thurgood Marshall's employment with the Baltimore NAACP branch.
 - Ultimately, her efforts built the Baltimore NAACP into the largest branch of the organization in the United States with a peak membership of 17,600
 
-# Douglass Memorial
+## Douglass Memorial
 
-- **1857**: Madison Avenue Methodist Episcopal Church erected, designed by architect Thomas Balbirnie in a Greek Revival style 
+- **1857**: Madison Avenue Methodist Episcopal Church erected, designed by architect Thomas Balbirnie in a Greek Revival style
 - The “undercroft” designed to seat 600, sanctuary seats 1,000
 - **1925**: Douglass Memorial Community Church split from Bethel AME Church to form its own congregation
 
@@ -83,7 +99,7 @@ Speaking about his involvement in the July 4, 1963 Gwynn Oak Park protests, Past
 
 [Source](http://www.nathanielturner.com/baltimoreblackchurches.htm)
 
-# 1800 McCulloh Street
+## Segregation and McCulloh Street
 _Lafayette Avenue and McCulloh Street – direct the group to look north_
 The relationship between racial transition and racial segregation is clear beginning in **1910** when Baltimore became the first city in the United States to enact a law requiring racial segregation.
 
@@ -99,7 +115,7 @@ Born in Wheeling, West Virginia on October 29, 1871 to George and Mildred McMech
 
 Source: [MSA](http://msa.maryland.gov/megafile/msa/speccol/sc3500/sc3520/002600/002617/html/2617bio.html)
 
-# Western Female High School (1896- 1928), Booker T. Washington Middle School
+## Western Female High School/Booker T. Washington Middle School
 
 - **November 1, 1844**: Western High School officially opened its doors for the first time in Armitage Hall at 100 North Paca Street in Baltimore. In two small rented rooms, Robert Kerr, first principal, taught 36 young women. Before Western was established, there had been no opportunity for Baltimore girls to get an education beyond grammar school.
 - **1896**: New building designed by City Building Inspector erected on McCulloh Street, Annex completed in 1911
@@ -120,7 +136,7 @@ _Baltimore Sun_ editorial on proposed switch for P.S. 103, framed their oppositi
 
 > “It is a well-known fact that as soon as a colored family moves into a block white families begin to move away. The owners of the vacated houses deciding they cannot get white tenants are forced to take such as they can get. To rent to negroes means a reduction of rentals and a deterioration in the value of property… But perhaps even stronger than any question of values and revenues is another reason waged against the change of this school. That is the proximity to the Western Female High School, which is only two blocks distant. Every street leading to the high school would be filled morning and evening with throngs of negroes of both sexes and all ages up, perhaps, to 20 years. Morning and evening the young ladies attending the high school would encounter these negroes and it is not fair nor public spirited of the School Board to subject them to that. There is a growing disposition among negro men and boys all over the land to be unmannerly, insolent and violent to white women.”
 
-# Royal Theater
+## Royal Theater
 
 - **1922**: Theater opened as the black-owned Douglass Theatre, was the most famous theater along West Baltimore City's Pennsylvania Avenue, one of a circuit of five such theaters for black entertainment in big cities - including the Apollo in Harlem, the Howard Theatre in Washington, D.C., the Regal Theatre in Chicago, and the Earl Theater in Philadelphia.
 - All of the biggest stars in black entertainment, including those in jazz and blues, performed at the Royal. Ethel Waters debuted there, as did Pearl Bailey, who sang in a chorus line. Louis Armstrong and Fats Waller worked as accompanists. Singer Louis Jordan, Duke Ellington, The Tympany Five, Etta James, Nat King Cole, The Platters, The Temptations, and The Supremes, as well as a 40-piece, all-female band touring with Count Basie called the Sweethearts of Rhythm, were all performers at the Royal.
@@ -129,7 +145,16 @@ _Baltimore Sun_ editorial on proposed switch for P.S. 103, framed their oppositi
 
 ## Billie Holliday Monument
 
-# Public School 103
+> Born in Philadelphia, Billie Holiday eventually spent her early childhood years in Baltimore City. At ten years old she was put in Catholic reform school, The House of the Good Shepherd, to help ease her troubled early development. After two years relatives and friends were able to remove her from the rigorous program, her mother then moving the family to New York City. By the time she was in her late teens Billie was working in Brothels and singing for tips. 
+
+Source: [Monument City](http://monumentcity.net/2009/10/12/billie-holiday-statue-baltimore-md/); [Baltimore Sun](http://articles.baltimoresun.com/2009-07-17/news/0907160099_1_billie-holiday-reid-jim-crow), 2009
+
+> Renowned sculptor James Earl Reid was born at Stump Hope Farm in Princeton, North Carolina, on September 9, 1942. In 1970, Reid was awarded his master’s degree in sculpture from the University of Maryland College Park.
+> While attending the University of Maryland, Reid worked as a graduate teaching assistant, and remained there after earning his M.A. degree, rising to become an assistant professor over the next eleven years. In 1979, Reid received his first major commission for a work of art when the City of Baltimore asked him to create a sculpture of jazz legend Billie Holiday, who spent her childhood there; the sculpture was unveiled in 1985 in the Druid Hill section of Baltimore.
+
+[Source](http://www.thehistorymakers.com/biography/james-earl-reid-38)
+
+## Public School 103
 _Division Street between Lanvale and Lafayette_
 
 - **1877**: School built on Division Street
@@ -155,14 +180,14 @@ When he began attending PS 103 at age 6, his family lived with his Uncle Fearles
 
 Marshall later attend the **Colored High School** opened in January 1901 at the northeast corner of Pennsylvania Avenue and Dolphin Street occupying a building erected in 1891 for the English-German School No. 1 previously located on Druid Hill Avenue.
 
-# Sharp Street Church
+## Sharp Street Church
 508 Dolphin Street (at Etting Street)
 
 Between 1892 and 1910, three African American churches moved from south or downtown Baltimore to the Druid Hill Avenue area, **Sharp Street** is the first of those three.
 
 - **1797**: African Americans gathered at 112-116 Sharp Street, where the Maryland Society for the Abolition of Slavery had opened the Baltimore African Academy, the city's first prominent day school for blacks. The Society later abandoned this project and sold the lot and building in **1802** to the black congregation, which then built a church on the property, first building occupied by the congregation.
 - **1846**: Church hosted the first regional conference for black methodists, which resulted in the first appointment of black pastors and the creation of a black governing board.
-- **1867**: Centenary Biblical Institute (now Morgan State University) established at the church, held classes there until 1872 
+- **1867**: Centenary Biblical Institute (now Morgan State University) established at the church, held classes there until 1872
 - **1898**: Sharp Street Church moves to Dolphin and Etting Streets (site previously occupied by the 2nd Christian Church) and builds a new church designed by local architect Alphonsus Bieler. Bieler, lived at 1021 McCulloh, also designed church for Macedonian Baptist on Saratoga and Vincent Streets.
 - **1921**: Arthur M. Segoin, a black architect, designed the adjacent Community House, the first of its kind in Baltimore.
 - **July 1975**:  1,200 people attended funeral for Lillie Carrol Jackson, another 300 stood outside, included Roy Wilkins, executive director of the NAACP, Thurgood Marshall, Supreme Court Justice, Rep. Parren Mitchell
@@ -172,26 +197,26 @@ Source: [Baltimore City](http://apps.baltimorecity.gov/Art_Culture_Map/landmarks
 
 - Sharp Street Church manages [Mt. Auburn Cemetery](https://en.wikipedia.org/wiki/Mount_Auburn_Cemetery_(Baltimore,_Maryland)), one of the few early African American cemeteries in Baltimore, and where hundreds of prominent African Americans are buried including Dr. Lillie Carroll Jackson, William A. Hawkins, and John H. Murphy, founder of The Afro-American Newspapers.
 
-# Druid Hill Avenue
+## Druid Hill Avenue
 
-## Union Baptist Church
+### Union Baptist Church
 1211 Druid Hill Avenue
 
 - **Union Baptist Church** moved  located on Guilford Avenue between E. Lexington and E. Saratoga Streets. Union Baptist moved to Druid Hill Avenue in 1910.
 
 - **1852**: Church is founded
 - **1892**: Church withdrew from the Maryland Baptist Union Association because of its discrimination.
-- **1897**: Rev. Dr. Harvey Johnson, Union Baptist Church's 5th Pastor, was the minister who organized the Colored Baptist Convention. 
+- **1897**: Rev. Dr. Harvey Johnson, Union Baptist Church's 5th Pastor, was the minister who organized the Colored Baptist Convention.
 
-**Reverend Dr. Harvey Johnson (1843-1923), pastor from 1872 to 1923
+\*\*Reverend Dr. Harvey Johnson (1843-1923), pastor from 1872 to 1923
 
-> An early leader in the Civil Rights movement, Dr. Johnson was a founder of the Mutual United Brotherhood of Liberty of the United States of America, fought to defeat Jim Crow laws as they applied to transportation in Maryland, and advocated self-determination for African American organizations. His writing, preaching, and public speaking addressed a wide range of subjects. Under his direction, the Union Baptist congregation assumed an increasingly active role in the quest for social justice and civil rights in Baltimore, a tradition it has maintained to the present. 
+> An early leader in the Civil Rights movement, Dr. Johnson was a founder of the Mutual United Brotherhood of Liberty of the United States of America, fought to defeat Jim Crow laws as they applied to transportation in Maryland, and advocated self-determination for African American organizations. His writing, preaching, and public speaking addressed a wide range of subjects. Under his direction, the Union Baptist congregation assumed an increasingly active role in the quest for social justice and civil rights in Baltimore, a tradition it has maintained to the present.
 
 Johnson, a friend of W.E.B. DuBois, established the Niagara Movement, which was a prototype for the NAACP. He also filed a lawsuit to gain equal pay for black teachers and to make it possible for black lawyers to practice in the state of Maryland. The planning meetings preceding the Niagara Movement were at Union Baptist Church. Dr. Johnson also filed a lawsuit and won the first case in the U.S. striking down the identification of Negroes as cargo in interstate commerce.
 
 **1904-1906**: Building erected, designed by New York architect Mr. [William J. Beardsley](https://en.wikipedia.org/wiki/William_J._Beardsley)
 
-> Constructed between April 1905 and February 1906 under the supervision of William J. Beardsley, its architect, and Reverend Dr. Harvey Johnson, its visionary pastor, Union Baptist Church was financed entirely by African Americans, was never owned by a white congregation, and was not a product of vernacular design, Also in contrast to many other large African American churches of the same period that were constructed over several years that sometimes extended even into decades due to the need to secure the requisite funding, Union Baptist Church, largely as anticipated, was completed in slightly less than a year's time. 
+> Constructed between April 1905 and February 1906 under the supervision of William J. Beardsley, its architect, and Reverend Dr. Harvey Johnson, its visionary pastor, Union Baptist Church was financed entirely by African Americans, was never owned by a white congregation, and was not a product of vernacular design, Also in contrast to many other large African American churches of the same period that were constructed over several years that sometimes extended even into decades due to the need to secure the requisite funding, Union Baptist Church, largely as anticipated, was completed in slightly less than a year's time.
 
 - **1960s**: Union Baptist Church energized by leadership of [Dr. Vernon Dobson](https://en.wikipedia.org/wiki/Vernon_Dobson), who supported Baltimore’s participation in the 1963 March on Washington.
 - **1970s**: Parren Mitchell, a leading civil rights leader and head of Johnson’s Model Cities Program began to work with Rev. Dobson and Parren Mitchell began to direct funds to Union Baptist.
@@ -217,18 +242,18 @@ Druid Hill Avenue and Lanvale Street
 
 **1882**: Bethel member and Sunday school teacher John M. Murphy, Sr. purchased the Afro- American Newspaper. He turned the newspaper into a well respected weekly, and it was the most read black newspaper in the middle Atlantic State region. His father was choir director at Bethel for many years and is wife Martha Murphy was one of the co-founders of the first black YWCA in Baltimore in **1896**.
 
-# Mount Royal
+## Mount Royal
 
 - **1920s**: the Mount Royal Protective Association boasted of their Efforts to secure and enforce racial covenants from local property owners, noting the group's "greatest achievement... has been the subjecting of the property in its area to a restriction for white occupancy only."
 - In the Mount Royal area, a group of 300 northwest Baltimore residents (led by the president of the Baltimore Bar Library and the neighborhood's City Council representative, among others) responded to the changes on Bolton Street by signing racial covenants barring the sale or lease of their properties to African Americans.
 
-## McCulloh Homes
+### McCulloh Homes
 
 -  **December 13, 1937**: Housing Authority of Baltimore City established, shortly after the creation of the U.S. Housing Authority with the passage of the [Housing Act of 1937](https://en.wikipedia.org/wiki/Housing_Act_of_1937) (Wagner-Steagall Act)
 - Mayor Howard Jackson appointed five men to the authority’s board of commissioners. And although the City Council rejected a resolution calling for the appointment of one African American to the commission, the mayor chose a member of one of Baltimore’s most prominent African American families in naming **George Murphy**, a retired school principal and vice chairman of the Urban League. The housing authority’s first executive director was **Clarence W. Perkins**, a former state senator and executive director of the Maryland Emergency Housing and Park Commission.
 - **1939**: More than 2,500 black people applied for 434 apartments in McCulloh Homes
 
-## Fifth Regiment Armory
+### Fifth Regiment Armory
 
 - **1901**: Fifth Regiment Armory built; a historic National Guard armory with a 200 foot by 300 foot drill hall, a mezzanine or "balcony" level, and a newer second level (reconstructed in 1933 after a fire) housing the trussed steel drill hall roof.
 	- Designed by Wyatt & Nolting; partnership of James Bosley Noel Wyatt and William G. Nolting, also designed the Baltimore City Courthouse and the Garrett Building on Redwood Street Downtown.
@@ -238,7 +263,7 @@ In **1906**, Colonel C. Baker Clotworthy, commander of the Fifth Regiment:
 > “I would be deeply interested in this improvement because it means so much more than simply tearing down some houses and opening a street. Everyone in the city is familiar with the steady decrease which has taken place in the value of property in this neighborhood for the last 20 years.
 > All about Richmond Market, and extending north, there are hundreds of undesirable houses and, in many cases, huts. This sore is spreading rapidly. A great many negroes, not of the best class,  gradually tenant the houses on the edge of this district and immediately the white people move from the block invaded. If this continues no one knows where it will stop."
 
-## State Center
+### State Center
 
 **Dr. Robert L. Jackson**, only black member of the City Planning Commission, opposed the Armory site, noting that it would force 950 black families to move.
 
