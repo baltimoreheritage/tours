@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Civil Rights Activism in Downtown Baltimore”
-summary: "A walk around downtown Baltimore highlighting Civil Rights activism, organizing and protest."
+title: "Civil Rights Activism in Downtown Baltimore"
+summary: "A downtown Baltimore walking tour highlighting Civil Rights activism, organizing and protest."
 date: 2016-03-18
 ---
 
