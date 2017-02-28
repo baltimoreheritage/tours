@@ -135,12 +135,14 @@ _Source: [Struggle and Joy in the Druid Hill Park Memorial Pool](http://whatweek
 The Jazz Singer premiere, "Jazz Indebted to the Jews"
 
 **Deborah Chesler**
+
 - In HS went to Park Heights, became a song-writer, go around to all the black clubs to try to sell her songs, hooked up with **The Orioles** - her song is a smash hit, she became their manager
 - It’s too soon to know, 1948 (landmark Rhythm )
 
 See also[Baltimore Sun article on Shirley Reingold](http://articles.baltimoresun.com/2012-10-18/news/bs-md-ob-shirley-reingold-20121018_1_vocal-group-ink-spots-mills-brothers)
 
 **Gerry Lieber (Baltimore) and Mike Stoller (NYC)** (from Baltimore) and Mike Stoller (from NYC)
+
 - Gerry grew up in a black neighborhood, lived about his family store
 - His mother owned a store, delivered goods would hear black music on the radios of homes where he made deliveries, moved to California, wrote you ain’t nothing but a hound dog, first a hit for black music before, stand by me with Ben King
 
