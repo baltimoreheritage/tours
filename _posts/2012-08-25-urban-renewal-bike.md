@@ -3,7 +3,7 @@ layout: post
 title: "Urban Renewal by Bike"
 summary: "A two-hour bike tour from Mount Vernon Place to State Center on the history of urban renewal in Baltimore."
 categories: bike
-date: 2017-02-28
+date: 2012-02-28
 ---
 
 _Note: These notes were converted from an older Word Document. They are missing sources and may require reformatting. Please use with caution._
@@ -157,11 +157,11 @@ Beginning **1954** , the Committee for Downtown promoted a master plan (covering
 
 GBC, not satisfied with this slow pace of public planning, formed their own in house planning team, the Planning Council, headed by nationally-known planner David Wallace from Philadelphia, and with William Potts and George Kostritsky as staff designers, plan formed the basis of a $25 million bond issue in 1958.
 
-- Beginning in Philadelphia, PA in 1953, under Mayor Joseph S. Clark, David Wallace led a citywide urban redevelopment evaluation that resulted in the Central Urban Renewal Area (CURA) Report. In it he established a new strategy for overall redevelopment that targeted catalytic actions to strengthen communities and downtown. CURA became a model for other cities, notably Baltimore, MD.
+- Beginning in Philadelphia, PA in **1953**, under Mayor Joseph S. Clark, David Wallace led a citywide urban redevelopment evaluation that resulted in the Central Urban Renewal Area (CURA) Report. In it he established a new strategy for overall redevelopment that targeted catalytic actions to strengthen communities and downtown. CURA became a model for other cities, notably Baltimore, MD.
 
 The plan was unusual for its time in not pursuing a &quot;clean-slate&quot; site, but rather incorporating existing structures. The 33 acres (13 ha) site includes three public plazas designed by  [RTKL](http://en.wikipedia.org/wiki/RTKL), connected by walkways and pedestrian bridges.
 
-After eighteen months, in March 1958, they presented the result of their work to the mayor and to the city: office buildings, commercial space, hotels, a theatre, three public plazas, underground parking, and skywalks providing pedestrian access to the whole area separated from the traffic.
+After eighteen months, in **March 1958**, they presented the result of their work to the mayor and to the city: office buildings, commercial space, hotels, a theatre, three public plazas, underground parking, and skywalks providing pedestrian access to the whole area separated from the traffic.
 
 ## Morris Mechanic Theatre (1967)
 
@@ -186,11 +186,10 @@ In an article declaring Charles Center the &quot;New Heart of Baltimore,&quot; J
 
 Architectural Review Board, consisting of the deans of three of the most prominent architectural schools in the country; Harvard, MIT and University of Pennsylvania, judged the plans for each parcel of land to be developed.
 
-**See also**
+**See also:**
 
-Statler Hilton Baltimore/Sheraton Baltimore City Center (1967)
-
-Lord Baltimore Hotel (1928) - designed by William Lee Stoddart and opened on December 30, 1928. The 22 story French Renaissance style hotel has a brick veneer over a steel frame and is 289 feet tall.
+- Statler Hilton Baltimore/Sheraton Baltimore City Center (1967)
+- Lord Baltimore Hotel (1928) - designed by William Lee Stoddart and opened on December 30, 1928. The 22 story French Renaissance style hotel has a brick veneer over a steel frame and is 289 feet tall.
 
 ## One Charles Center (1962)
 
@@ -204,9 +203,7 @@ Baltimore Sun:
 
 23-story aluminum and glass International Style skyscraper, completed in 13 months at a cost of $10,350,000.
 
-Another developer adapted Breuer&#39;s proposal for a site
-
-across the street, and the two buildings came up practically side-by-side.
+Another developer adapted Breuer&#39;s proposal for a site across the street, and the two buildings came up practically side-by-side.
 
 ## Two Charles Center/Charles Towers (1969)
 
